@@ -1,0 +1,18 @@
+---
+layout: layout
+front: true
+title: "Sharon's Cookbook"
+regions:
+---
+<section class="region divided highlight" id="home"><div class="inner">
+  <h1 class="title">American recipes you'll love</h1>
+  <p itemprop="description">This is a textual description of the book.</p>
+</div></section>
+<section class="region divided"><div class="inner">
+  <h2>Recipes</h2>
+  <ul>
+  {% for recipe in site.recipes %}
+  <li>{{ recipe.title }} - {{ recipe.category }}</li>
+  {% endfor %}
+  </ul>
+</div></section>

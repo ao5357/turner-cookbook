@@ -1,0 +1,19 @@
+---
+title:
+- type: main
+  text: "Sharon’s Cookbook"
+- type: subtitle
+  text: Cuisine from Michigan to Georgia
+description: Cookbook containing collected recipes from Sharon's travels.
+creator:
+- role: author
+  text: Sharon Turner
+- role: editor
+  text: Brad Czerniak
+identifier:
+- scheme: URN
+  text: urn:fdc:bradczerniak.com:2015:turner-cookbook
+date: 2015
+rights: Creative Commons Non-Commercial Share Alike 3.0
+language: en-US
+---

@@ -1,0 +1,41 @@
+## Jekyll configs
+markdown: rdiscount
+permalink: /:year/:month/:title/
+highlighter: pygments
+rdiscount:
+  extensions: [smart]
+sass:
+  style: :compressed
+gems:
+  - jemoji
+  - jekyll-sitemap
+
+## Site structure
+collections:
+  recipes:
+    output: true
+    permalink: /:path/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "recipes"
+    values:
+      layout: "recipe"
+
+## Basic site info
+title: "Sharon's Cookbook"
+primary_author: "Sharon Turner"
+shortname: Sharon
+baseurl: http://bradczerniak.com/turner-cookbook
+email: ao5357@gmail.com
+phone: 248-721-0350
+gaid: UA-697953-3
+
+## Open Graph
+og_street_address: 6751 Anna Dr
+og_locality: Belleville
+og_region: MI
+og_postal_code: "48111"
+og_country: USA
