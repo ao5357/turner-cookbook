@@ -1,2 +1,54 @@
-<h2>{{ include.recipe.title }}</h2>
-{{ include.recipe.content }}
+<article class="region"><div class="inner">
+  <header>
+    <h2 itemprop="name headline">{{ include.recipe.title }}</h2>
+    <div class="meta">
+    {% if include.recipe.category %}
+      <strong>Category</strong>: 
+      <span itemprop="recipeCategory">{{ include.recipe.category }}</span>
+      <br />
+    {% endif %}
+    {% if include.recipe.cookingMethod %}
+      <strong>Cooking method</strong>: 
+      <span itemprop="cookingMethod">{{ include.recipe.cookingMethod }}</span>
+      <br />
+    {% endif %}
+    {% if include.recipe.recipeYield %}
+      <strong>Yield</strong>: 
+      <span itemprop="recipeYield">{{ include.recipe.recipeYield }}</span>
+      <br />
+    {% endif %}
+    {% if include.recipe.prepTime %}
+      <strong>Prep time</strong>: 
+      <span itemprop="prepTime" datetime="PT{{ include.recipe.prepTime }}">{{ include.recipe.prepTime }}</span>
+      <br />
+    {% endif %}
+    {% if include.recipe.cookTime %}
+      <strong>Cook time</strong>: 
+      <span itemprop="cookTime" datetime="PT{{ include.recipe.cookTime }}">{{ include.recipe.cookTime }}</span>
+      <br />
+    {% endif %}
+    {% if include.recipe.totalTime %}
+      <strong>Total time</strong>: 
+      <span itemprop="totalTime" datetime="PT{{ include.recipe.totalTime }}">{{ include.recipe.totalTime }}</span>
+      <br />
+    {% endif %}
+    </div>
+  </header>
+  {% if include.recipe.description %}
+    <h3>About</h3>
+    <p itemprop="description">{{ include.recipe.description }}</p>
+  {% endif %}
+  {% if include.recipe.ingredients %}
+    <h3>Ingredients</h3><ul class="ingredients">
+    {% for ingredient in include.recipe.ingredients %}
+      <li itemprop="ingredients">{{ ingredient }}</li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+  {% if content %}
+  <h3>Steps</h3> 
+  <div class="content" itemprop="recipeInstructions">
+    {{ content }}
+  </div>
+  {% endif %}
+</div></article>

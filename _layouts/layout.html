@@ -12,7 +12,7 @@
 <meta name="author" content="{{ site.primary_author }}" />
 <meta property="og:country-name" content="{{ site.og_country }}"/>
 <meta property="og:email" content="{{ site.email }}"/>
-<meta property="og:image" content="{{ site.baseurl }}/apple-touch-icon.png" />
+<meta property="og:image" content="{{ site.baseurl }}{{ site.subpath }}/apple-touch-icon.png" />
 <meta property="og:locality" content="{{ site.og_locality }}"/>
 <meta property="og:phone_number" content="{{ site.phone }}"/>
 <meta property="og:postal-code" content="{{ site.og_postal_code }}"/>
@@ -21,20 +21,24 @@
 <meta property="og:street-address" content="{{ site.og_street_address }}"/>
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="{{ site.baseurl }}{{ page.url }}" />
+<meta property="og:url" content="{{ site.baseurl }}{{ site.subpath }}{{ page.url }}" />
 {% if page.description %}
   <meta name="description" content="{{ page.description }}" />
 {% else %}
   <meta name="description" content="{{ content | strip_html | strip_newlines | replace: '  ', ' ' | truncate: 155, '' }}" />
 {% endif %}
-<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/deps/styles.css" />
-<link rel="canonical" href="{{ site.baseurl }}{{ page.url }}" />
+<link rel="stylesheet" type="text/css" href="{{ site.subpath }}/deps/styles.css" />
+<link rel="canonical" href="{{ site.baseurl }}{{ site.subpath }}{{ page.url }}" />
 </head><body class="page-{{ page.url | slugify }}">
-{% include analytics.html %}
-<div class="page" itemscope itemtype="http://schema.org/LocalBusiness">
-  {% include header.html %}
-  {% include nav.html %}
-	{{ content }}
-  {% include footer.html %}
-</div>
+  {% include analytics.html %}
+  {% if page.schema %}
+    <div class="page" itemscope itemtype="http://schema.org/{{ page.schema }}">
+  {% else %}
+    <div class="page" itemscope itemtype="http://schema.org/{{ site.schema }}">
+      {% endif %}
+      {% include header.html %}
+      {% include nav.html %}
+      {{ content }}
+      {% include footer.html %}
+    </div>
 </body></html>

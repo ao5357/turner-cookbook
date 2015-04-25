@@ -3,5 +3,5 @@
 </div></footer>
 <div class="region copyright"><div class="inner">
   <p>&copy; Copyright {{ site.time | date: '%Y' }} {{ site.primary_author }}, all rights reserved.</p>
-  <p><a href="http://www.github.com/ao5357/turner-cookbook" target="_blank">Github source</a></p>
+  {% if source_repo %}<p><a href="{{ site.source_repo }}" target="_blank">Github source</a></p>{% endif %}
 </div></div>

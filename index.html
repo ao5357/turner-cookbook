@@ -15,7 +15,7 @@ regions:
     <h3>{{ group.name }}</h3>
     <ul>
     {% for item in group.items %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+      <li><a href="{{ site.subpath }}{{ item.url }}">{{ item.title }}</a></li>
     {% endfor %}
     </ul>
   {% endfor %}

@@ -1,7 +1,8 @@
 ---
 layout: layout
+schema: Recipe
 ---
-<article class="region" itemscope itemtype="http://schema.org/Recipe"><div class="inner">
+<article class="region"><div class="inner">
 	<header>
 		<h1 itemprop="name headline">{{ page.title }}</h1>
 		<div class="meta">
@@ -22,22 +23,25 @@ layout: layout
 		{% endif %}
 		{% if page.prepTime %}
 		  <strong>Prep time</strong>: 
-		  <span itemprop="prepTime">{{ page.prepTime }}</span>
+		  <span itemprop="prepTime" datetime="PT{{ page.prepTime }}">{{ page.prepTime }}</span>
 		  <br />
 		{% endif %}
 		{% if page.cookTime %}
 		  <strong>Cook time</strong>: 
-		  <span itemprop="cookTime">{{ page.cookTime }}</span>
+		  <span itemprop="cookTime" datetime="PT{{ page.cookTime }}">{{ page.cookTime }}</span>
 		  <br />
 		{% endif %}
 		{% if page.totalTime %}
 		  <strong>Total time</strong>: 
-		  <span itemprop="totalTime">{{ page.totalTime }}</span>
+		  <span itemprop="totalTime" datetime="PT{{ page.totalTime }}">{{ page.totalTime }}</span>
 		  <br />
 		{% endif %}
 		</div>
   </header>
-  {% if page.description %}<p itemprop="description">{{ page.description }}</p>{% endif %}
+  {% if page.description %}
+  	<h2>About</h2>
+    <p itemprop="description">{{ page.description }}</p>
+  {% endif %}
   {% if page.ingredients %}
 	  <h2>Ingredients</h2><ul class="ingredients">
 	  {% for ingredient in page.ingredients %}
