@@ -1,29 +1,29 @@
 ---
-title: Christmas Eggnog Bread
-category: breads
+title: "Christmas Eggnog Bread"
+description: "Mom Cz"
+category: "Breads"
+cookingMethod: "Baking"
+recipeYield: "1 loaf"
+prepTime: "15M"
+cookTime: "1H"
+totalTime: "1H15M"
+ingredients:
+  - "3 c. flour"
+  - "&frac34; c. sugar"
+  - "1 t. baking powder"
+  - "1 t. salt"
+  - "&frac12; t. nutmeg"
+  - "1 &frac12; c. eggnog"
+  - "1 beaten egg"
+  - "&frac14; c. softened butter"
+  - "1 c. raisins"
+  - "&frac12; c. red cherries"
+  - "&frac12; c. green cherries"
+  - "&frac34; c. chopped nuts"
 ---
 
-Mom Cz
+Mix dry ingredients, wet ingredients, and mix.
 
-##Ingredients
+Bake at 350&#8457; for 60 minutes in a greased loaf pan.
 
-<p itemprop="ingredients">3 c. flour</p>
-<p itemprop="ingredients">&frac34; c. sugar</p>
-<p itemprop="ingredients">1 t. baking powder</p>
-<p itemprop="ingredients">1 t. salt</p>
-<p itemprop="ingredients">&frac12; t. nutmeg</p>
-<p itemprop="ingredients">1 &frac12; c. eggnog</p>
-<p itemprop="ingredients">1 beaten egg</p>
-<p itemprop="ingredients">&frac14; c. softened butter</p>
-<p itemprop="ingredients">1 c. raisins</p>
-<p itemprop="ingredients">&frac12; c. red cherries</p>
-<p itemprop="ingredients">&frac12; c. green cherries</p>
-<p itemprop="ingredients">&frac34; c. chopped nuts</p>
-
-##Steps
-
-<div itemprop="recipeInstructions">
-<p>Mix dry ingredients, wet ingredients, and mix.</p>
-<p>Bake at 350&#8457; for 60 minutes in a greased loaf pan.</p>
-<p>Cool on rack.</p>
-</div>
+Cool on rack.

@@ -1,0 +1,13 @@
+---
+title: "Sharon's Cookbook"
+layout: basic
+---
+
+{% assign groups = site.recipes | group_by: "category" | sort: "name" %}
+{% for group in groups %}
+  <h1>{{ group.name }}</h1>
+  {% for item in group.items %}
+    {% include recipe.html recipe=item %}
+    <hr />
+  {% endfor %}
+{% endfor %}

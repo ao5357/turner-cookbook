@@ -1,0 +1,30 @@
+body {
+  background: #fc0;
+  font-size: medium; 
+  margin: 5%; 
+  text-align: justify; 
+}
+code { 
+  font-family: monospace; 
+}
+h1, h2, h3, h4, h5, h6 {
+  text-align: left;
+}
+h1 {}
+  h1.title {}
+h2 {}
+  h2.author {}
+h3 {}
+  h3.date { }
+h4 {}
+h5 {}
+h6 {}
+ol.toc { 
+  margin-left: 1em; 
+  padding: 0; 
+}
+  ol.toc li { 
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+  }

@@ -10,9 +10,13 @@ regions:
 </div></section>
 <section class="region divided"><div class="inner">
   <h2>Recipes</h2>
-  <ul>
-  {% for recipe in site.recipes %}
-  <li>{{ recipe.title }} - {{ recipe.category }}</li>
+  {% assign groups = site.recipes | group_by: "category" | sort: "name" %}
+  {% for group in groups %}
+    <h3>{{ group.name }}</h3>
+    <ul>
+    {% for item in group.items %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+    </ul>
   {% endfor %}
-  </ul>
 </div></section>
