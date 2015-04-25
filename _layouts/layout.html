@@ -21,14 +21,14 @@
 <meta property="og:street-address" content="{{ site.og_street_address }}"/>
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="{{ site.baseurl }}/{{ page.url }}" />
+<meta property="og:url" content="{{ site.baseurl }}{{ page.url }}" />
 {% if page.description %}
   <meta name="description" content="{{ page.description }}" />
 {% else %}
   <meta name="description" content="{{ content | strip_html | strip_newlines | replace: '  ', ' ' | truncate: 155, '' }}" />
 {% endif %}
-<link rel="stylesheet" type="text/css" href="/deps/styles.css" />
-<link rel="canonical" href="{{ site.baseurl }}/{{ page.url }}" />
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/deps/styles.css" />
+<link rel="canonical" href="{{ site.baseurl }}{{ page.url }}" />
 </head><body class="page-{{ page.url | slugify }}">
 {% include analytics.html %}
 <div class="page" itemscope itemtype="http://schema.org/LocalBusiness">
