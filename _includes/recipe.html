@@ -34,6 +34,9 @@
     {% endif %}
     </div>
   </header>
+  {% if include.recipe.image %}
+    <img src="recipes/{{ include.recipe.category | slugify }}/{{ include.recipe.image }}" alt="" />
+  {% endif %}
   {% if include.recipe.description %}
     <h3>About</h3>
     <p itemprop="description">{{ include.recipe.description }}</p>

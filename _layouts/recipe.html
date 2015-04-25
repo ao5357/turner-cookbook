@@ -38,6 +38,9 @@ schema: Recipe
 		{% endif %}
 		</div>
   </header>
+  {% if page.image %}
+    <img src="{{ site.subpath }}/ebook/recipes/{{ page.category | slugify }}/{{ page.image }}" alt="" />
+  {% endif %}
   {% if page.description %}
   	<h2>About</h2>
     <p itemprop="description">{{ page.description }}</p>

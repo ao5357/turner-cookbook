@@ -2,6 +2,7 @@
 title: "Christmas Eggnog Bread"
 description: "Mom Cz"
 category: "Breads"
+image: christmas-eggnog-bread.jpg
 cookingMethod: "Baking"
 recipeYield: "1 loaf"
 prepTime: "15M"

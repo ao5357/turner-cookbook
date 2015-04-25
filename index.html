@@ -18,14 +18,16 @@ regions:
     <li><a href="{{ site.subpath }}/assets/build/sharons-cookbook.epub">.epub format for most e-readers</a></li>
     <li><a href="{{ site.subpath }}/assets/build/sharons-cookbook.pdf">PDF for desktop reading</a></li>
     <li><a href="{{ site.subpath }}/assets/build/sharons-cookbook.mobi">Kindle format (untested)</a></li>
-    <li><a href="{{ site.subpath }}/ebook/">One long webpage</a></li>
+    <li><a href="{{ site.subpath }}/assets/build/sharons-cookbook.docx">Word processor (like Microsoft Word)</a></li>
+    <li><a href="{{ site.subpath }}/assets/build/sharons-cookbook.md.txt">Plain text (markdown)</a></li>
+    <li><a href="{{ site.subpath }}/ebook/">One long, plain webpage</a></li>
   </ul>
 </div></section>
 <section class="region divided"><div class="inner">
   <h2>Recipes</h2>
   {% assign groups = site.recipes | group_by: "category" | sort: "name" %}
   {% for group in groups %}
-    <h3>{{ group.name }}</h3>
+    <h3 id="category-{{ group.name | slugify }}">{{ group.name }}</h3>
     <ul>
     {% for item in group.items %}
       <li><a href="{{ site.subpath }}{{ item.url }}">{{ item.title }}</a></li>
