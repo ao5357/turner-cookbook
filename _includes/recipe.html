@@ -45,10 +45,10 @@
     {% endfor %}
     </ul>
   {% endif %}
-  {% if content %}
+  {% if include.recipe.content %}
   <h3>Steps</h3> 
   <div class="content" itemprop="recipeInstructions">
-    {{ content }}
+    {{ include.recipe.content }}
   </div>
   {% endif %}
 </div></article>
