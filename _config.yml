@@ -23,6 +23,7 @@ defaults:
       type: "recipes"
     values:
       layout: "recipe"
+      schema: Recipe
 
 ## Basic site info
 title: "Sharon's Cookbook"
