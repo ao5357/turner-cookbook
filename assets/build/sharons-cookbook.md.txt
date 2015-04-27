@@ -7,9 +7,9 @@ Christmas Eggnog Bread {itemprop="name headline"}
 **Category**: Breads\
  **Cooking method**: Baking\
  **Yield**: 1 loaf\
- **Prep time**: 15M\
- **Cook time**: 1H\
- **Total time**: 1H15M\
+ **Prep time**: PT15M\
+ **Cook time**: PT1H\
+ **Total time**: PT1H15M\
 
 ![](recipes/breads/christmas-eggnog-bread.jpg)
 

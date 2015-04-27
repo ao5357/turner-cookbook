@@ -19,17 +19,17 @@
     {% endif %}
     {% if include.recipe.prepTime %}
       <strong>Prep time</strong>: 
-      <span itemprop="prepTime" datetime="PT{{ include.recipe.prepTime }}">{{ include.recipe.prepTime }}</span>
+      <span itemprop="prepTime">PT{{ include.recipe.prepTime }}</span>
       <br />
     {% endif %}
     {% if include.recipe.cookTime %}
       <strong>Cook time</strong>: 
-      <span itemprop="cookTime" datetime="PT{{ include.recipe.cookTime }}">{{ include.recipe.cookTime }}</span>
+      <span itemprop="cookTime">PT{{ include.recipe.cookTime }}</span>
       <br />
     {% endif %}
     {% if include.recipe.totalTime %}
       <strong>Total time</strong>: 
-      <span itemprop="totalTime" datetime="PT{{ include.recipe.totalTime }}">{{ include.recipe.totalTime }}</span>
+      <span itemprop="totalTime">PT{{ include.recipe.totalTime }}</span>
       <br />
     {% endif %}
     </div>
