@@ -21,13 +21,15 @@ pdfunite ../../assets/pdf_cover.pdf ../../assets/lulu-covers.pdf ../../assets/bu
 # Make another pdf for lulu.
 pdfunite ../../assets/lulu-covers.pdf ../../assets/build/book-plain.pdf ../../assets/blank-page.pdf ../../assets/build/book-nocover.pdf
 gs -o ../../assets/build/book-lulu.pdf -sDEVICE=pdfwrite -dPDFFitPage -r300x300 -g2475x3225 ../../assets/build/book-nocover.pdf
+#pdfcrop --margins '-37 -37 -38 -38' ../../assets/build/book-nocover.pdf ../../assets/build/book-lulu.pdf
+
 rm ../../assets/build/book-plain.pdf
 rm ../../assets/build/book-nocover.pdf
 
 # Word processor format
 pandoc -S -o ../../assets/build/sharons-cookbook.docx index.html
 
-# Word processor format
+# Plain text (markdown) format
 pandoc -S -t markdown -o ../../assets/build/sharons-cookbook.md.txt index.html
 
 # Use epub to make a mobi.

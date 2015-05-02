@@ -9,7 +9,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
       'prep',
       'cook',
       'total'
-    ]
+    ],
+    page: 500
   });
 
 });
