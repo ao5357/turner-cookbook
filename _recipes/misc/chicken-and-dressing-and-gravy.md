@@ -1,6 +1,6 @@
 ---
-title: "Recipe"
-#description: ""
+title: "Chicken and Dressing and Gravy"
+description: "Steve’s mother’s. Very good."
 category: "Misc"
 #image: filename.jpg
 cookingMethod: "Baking"
@@ -12,8 +12,8 @@ ingredients:
   - "ingredient"
 ---
 
-Chicken and Dressing and Gravy
-Steve’s mother’s. Very good.
+
+
 Ingredients
 Cornbread
 2 c. buttermilk cornmeal mix

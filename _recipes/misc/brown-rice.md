@@ -1,23 +1,20 @@
 ---
-title: "Recipe"
+title: "Brown Rice"
 #description: ""
-category: "Misc"
+category: "Side dishes"
 #image: filename.jpg
 cookingMethod: "Baking"
 recipeYield: "1 loaf"
-#prepTime: "15M"
-#cookTime: "1H"
-#totalTime: "1H15M"
+prepTime: "5M"
+cookTime: "45M"
+totalTime: "50M"
 ingredients:
-  - "ingredient"
+  - "1 c. white long grain rice"
+  - "1 c. french onion soup"
+  - "1 c. beef consomme"
+  - "1 stick margarine"
 ---
 
-Brown Rice
-Ingredients
-1 c. white long grain rice
-1 c. french onion soup
-1 c. beef consomme
-1 stick margarine
-Steps
 Mix all together.
+
 Bake in a covered casserole at 350℉ for 30 to 45 minutes. Let stand.

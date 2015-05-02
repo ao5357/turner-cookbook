@@ -3,17 +3,6 @@
 A collection of recipes from noted home cook and caterer Sharon Turner, including 
 family recipes from her mother Dolly Czerniak and others from friends and family.
 
-## Contents
- * [Appetizers](http://ao5357.github.com/turner-cookbook/appetizers.html)
- * [Breads](http://ao5357.github.com/turner-cookbook/breads.html)
- * [Cakes](http://ao5357.github.com/turner-cookbook/cakes.html)
- * [Candies](http://ao5357.github.com/turner-cookbook/candies.html)
- * [Cookies](http://ao5357.github.com/turner-cookbook/cookies.html)
- * [Main courses](http://ao5357.github.com/turner-cookbook/main-courses.html)
- * [Pies](http://ao5357.github.com/turner-cookbook/pies.html)
- * [Salads](http://ao5357.github.com/turner-cookbook/salads.html)
- * [Side dishes](http://ao5357.github.com/turner-cookbook/side-dishes.html)
-
 ## Technical
 
 This repo is a two things:
@@ -23,8 +12,11 @@ This repo is a two things:
 
 In essence, it's the book and the printing press. The build script requires:
 
+  * jekyll
   * pandoc
-  * latex (enough for pdf generation in pandoc)
+  * latex (and the xelatex engine)
+  * poppler-utils (for pdfunite)
+  * ghostscript
   * kindlegen
 
 ## License
@@ -39,4 +31,4 @@ shout-out if you use these recipes elsewhere. Enjoy!
 ## Development
 [ao5357](https://github.com/ao5357) did the paper-to-pixels data entry and is 
 morphing the data into an ebook. If you'd like to contribute by way of recipe 
-images or typo fixes, feel free to push request.
+images or typo fixes, feel free to pull request.

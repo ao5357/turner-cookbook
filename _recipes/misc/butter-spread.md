@@ -1,18 +1,16 @@
 ---
-title: "Recipe"
+title: "Butter Spread"
 #description: ""
 category: "Misc"
 #image: filename.jpg
-cookingMethod: "Baking"
-recipeYield: "1 loaf"
+#cookingMethod: "Baking"
+recipeYield: "1 lb spread"
 #prepTime: "15M"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "1 lb. margarine"
+  - "1 c. buttermilk"
 ---
 
-Butter Spread
-Ingredients
-1 lb. margarine
-1 c. buttermilk
+Melt together.
