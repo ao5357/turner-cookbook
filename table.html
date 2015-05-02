@@ -1,0 +1,38 @@
+---
+layout: layout
+title: "Table"
+regions:
+---
+
+<section class="region divided"><div class="inner" id="recipetable">
+<fieldset>
+  <input class="search" placeholder="Search" />
+</fieldset>
+
+<table><thead>
+  <tr>
+    <th><a class="sort" data-sort="title">title</a></th>
+    <th><a class="sort" data-sort="category">category</a></th>
+    <th><a class="sort" data-sort="method">method</a></th>
+    <th><a class="sort" data-sort="yield">yield</a></th>
+    <th><a class="sort" data-sort="prep">prep</a></th>
+    <th><a class="sort" data-sort="cook">cook</a></th>
+    <th><a class="sort" data-sort="total">total</a></th>    
+  </tr>
+</thead><tbody class="list">
+{% for r in site.recipes | sort: "title" %}
+  <tr>
+    <td><a class="title" href="{{ site.subpath }}{{ r.url }}">{{ r.title }}</a></td>
+    <td class="category">{{ r.category }}</td>
+    <td class="method">{{ r.cookingMethod }}</td>
+    <td class="yield">{{ r.recipeYield }}</td>
+    <td class="prep">{{ r.prepTime }}</td>
+    <td class="cook">{{ r.cookTime }}</td>
+    <td class="total">{{ r.totalTime }}</td>
+  </tr>
+{% endfor %}
+</tbody></table>
+</div></section>
+
+<script src="{{ site.subpath }}/deps/list.min.js"></script>
+<script src="{{ site.subpath }}/deps/behaviors.js"></script>
