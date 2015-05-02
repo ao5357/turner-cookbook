@@ -21,7 +21,7 @@ ingredients:
   - "4 eggs, beaten"
 ---
 
-Don not use mixer.
+Do not use mixer.
 
 Pour boiling water over bran buds and all bran. Stir and cool.
 

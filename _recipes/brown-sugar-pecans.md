@@ -1,5 +1,5 @@
 ---
-title: "Recipe"
+title: "Brown Sugar Pecans"
 #description: ""
 category: "Desserts"
 #image: filename.jpg
@@ -9,17 +9,13 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "1 egg white"
+  - "dash of salt"
+  - "¾ c. brown sugar"
+  - "1 t. vanilla"
+  - "2 c. pecans"
 ---
 
-Brown Sugar Pecans
-Ingredients
-1 egg white
-dash of salt
-¾ c. brown sugar
-1 t. vanilla
-2 c. pecans
-Steps
 Beat egg white with salt until stiff.
 Add brown sugar, vanilla, and pecans.
 Place separately on a greased cookie sheet.

@@ -1,5 +1,5 @@
 ---
-title: "Recipe"
+title: "Apple Fritters"
 #description: ""
 category: "Desserts"
 #image: filename.jpg
@@ -9,17 +9,14 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "1 c. sifted flour"
+  - "1 t. powdered sugar"
+  - "1 t. baking powder"
+  - "¼ t. salt"
+  - "1 beaten egg"
+  - "3 diced apples"
+  - "¼ c. milk"
 ---
 
-Apple Fritters
-Ingredients
-1 c. sifted flour
-1 t. powdered sugar
-1 t. baking powder
-¼ t. salt
-1 beaten egg
-3 diced apples
-¼ c. milk
-Steps
-Mix ingredients in order. Drop by teaspoonfuls in hot oil until brown. Shake on powdered sugar.
+Mix ingredients in order. Drop by teaspoonfuls in hot oil until brown. 
+Shake on powdered sugar.

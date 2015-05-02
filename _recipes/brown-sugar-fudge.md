@@ -1,5 +1,5 @@
 ---
-title: "Recipe"
+title: "Brown Sugar Fudge"
 #description: ""
 category: "Desserts"
 #image: filename.jpg
@@ -9,15 +9,11 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "2 c. brown sugar"
+  - "⅓ c. butter"
+  - "½ c. milk"
 ---
 
-Brown Sugar Fudge
-Ingredients
-2 c. brown sugar
-⅓ c. butter
-½ c. milk
-Steps
 Cook until forms ball in cold water.
 Put in a greased dish.
 Cool and chill.

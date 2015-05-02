@@ -1,6 +1,6 @@
 ---
-title: "Recipe"
-#description: ""
+title: "Caramel Frosting"
+description: "Enough for a 2-layer cake."
 category: "Desserts"
 #image: filename.jpg
 cookingMethod: "Baking"
@@ -9,18 +9,13 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "3 c. sugar (divided)"
+  - "¾ c. milk"
+  - "1 egg, beaten"
+  - "pinch of salt"
+  - "½ c. butter (cut up)"
 ---
 
-Caramel Frosting
-Enough for a 2-layer cake.
-Ingredients
-3 c. sugar (divided)
-¾ c. milk
-1 egg, beaten
-pinch of salt
-½ c. butter (cut up)
-Steps
 Sprinkle ½ c. sugar in heavy saucepan. Place over medium heat.
 Cook, stirring constantly, until sugar melts and syrup is golden brown.
 Combine rest of sugar and next 3 ingredients, mixing well.
