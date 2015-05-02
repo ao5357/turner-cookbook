@@ -1,6 +1,6 @@
 ---
-title: "Recipe"
-#description: ""
+title: "Baked Beans"
+description: "Tasty."
 category: "Misc"
 #image: filename.jpg
 cookingMethod: "Baking"
@@ -12,8 +12,8 @@ ingredients:
   - "ingredient"
 ---
 
-Baked Beans
-Tasty.
+
+
 Ingredients
 
 

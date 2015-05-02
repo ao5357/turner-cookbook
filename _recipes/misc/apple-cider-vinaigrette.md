@@ -1,25 +1,21 @@
 ---
-title: "Recipe"
+title: "Apple Cider Vinaigrette"
 #description: ""
 category: "Misc"
 #image: filename.jpg
-cookingMethod: "Baking"
-recipeYield: "1 loaf"
-#prepTime: "15M"
+cookingMethod: "Mixing"
+recipeYield: "1 jar"
+prepTime: "5M"
 #cookTime: "1H"
-#totalTime: "1H15M"
+totalTime: "5M"
 ingredients:
-  - "ingredient"
+  - "½ c. extra virgin olive oil"
+  - "¼ c. cider vinegar"
+  - "4 t. sugar"
+  - "1 T. brown sugar"
+  - "1 T. balsamic vinegar"
+  - "1 t. Worcestershire sauce"
+  - "½ t. salt"
 ---
 
-Apple Cider Vinaigrette
-Ingredients
-½ c. extra virgin olive oil
-¼ c. cider vinegar
-4 t. sugar
-1 T. brown sugar
-1 T. balsamic vinegar
-1 t. Worcestershire sauce
-½ t. salt
-Steps
 Whisk all together. Store in a glass jar.
