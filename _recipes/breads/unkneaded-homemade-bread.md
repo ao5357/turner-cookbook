@@ -1,6 +1,15 @@
 ---
-title: Unkneaded Homemade Bread
+title: "Recipe"
+#description: ""
 category: "Breads"
+#image: filename.jpg
+cookingMethod: "Baking"
+recipeYield: "1 loaf"
+#prepTime: "15M"
+#cookTime: "1H"
+#totalTime: "1H15M"
+ingredients:
+  - "ingredient"
 ---
 
 ### Ingredients

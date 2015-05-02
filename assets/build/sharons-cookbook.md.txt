@@ -42,10 +42,149 @@ Cool on rack.
 
 * * * * *
 
-Unkneaded Homemade Bread {itemprop="name headline"}
-------------------------
+Recipe {itemprop="name headline"}
+------
 
 **Category**: Breads\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Cinnamon Bread Ingredients Bread ¼ c. oil 1 egg. 2 c. flour ½ t. salt 1
+c. sugar 1 c. sour milk 1 t. soda Topping 1 T. cinnamon ½ c. sugar
+chopped nuts Steps Cream the oil, sugar, and egg. Add sour milk and dry
+ingredients. Greased and flour a loaf pan. Pour ½ the batter in thin and
+½ the topping mix and cut into batter. Add remaining batter and topping
+and cut into batter. Bake at 350℉ for 60 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Breads\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Lemon Bread This is from Steve’s Mom. Very good. Ingredients Bread 3 c.
+flour 2 c. sugar 1 ½ t. baking powder 1 t. salt 1 T. lemon peel grated 4
+eggs 1 c. milk 1 c. oil Glaze ⅔ c. sugar ½ c. lemon juice Steps Bread
+Preheat oven to 325℉ Mix together dry ingredients. Add wet ingredients
+and mix until just blended. Grease and flour two 4x9 loaf pans – fill ¾
+full. Bake at 325℉ for 35 to 40 minutes, until golden brown. After
+loaves are done, puncture tops several time with fork or skewer and
+cover with glaze. Remove from pans when cool. Glaze Heat sugar and lemon
+juice until the sugar dissolves.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Breads\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Peanut Butter Bread Ingredients ¾ c. sugar ½ c. peanut butter 1 t.
+vanilla 1 ¾ c. milk 2 ¼ c. flour 4 t. baking powder ½ t. salt Steps
+Cream together the sugar, peanut butter, and vanilla. Add the milk.
+Separately combine the flour, baking powder, and salt. Add the dry
+ingredients to the creamed mixture. Beat as much as you can. Spread in a
+greased loaf pan. Bake at 350℉ for 45-50 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Breads\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Pecan Bread Moist and good. Ingredients ½ c. butter, softened 1 ½ c.
+sugar 2 eggs 2 c. self-rising flour 1 t. vanilla 1 ½ t. vegetable oil ¼
+c. buttermilk 1 t. cinnamon 2 c. pecans 1 c. pears, canned, finely
+chopped Steps Mix in order listed. Spread in greased loaf pans. Bake at
+325℉ for 1 hour
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Breads\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Poppy Seed Bread Good. Makes 2 loaves. Ingredients 1 cake mix, white or
+yellow 1 pkg Royal toasted coconut pudding mix 3 T. poppy seeds 4 eggs 1
+c. oil 1 c. hot water Steps Grease pan. Bake at 350℉ for 50 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Breads\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Soft Breadsticks Makes a dozen. Ingredients 1 ¼ c. flour 2 t. sugar ½ t.
+salt 1 ½ t. baking powder ⅔ c. milk 3 T. butter 2 t. sesame seeds Steps
+In small bowl combine flour, sugar, baking powder, and salt. Gradually
+add milk and stir to form a soft dough. Turn onto a floured surface,
+knead gently 3-4 times. Roll into 10”x5”x2” rectangle. Cut into 12
+breadsticks. Place butter in 13x9 pan. Place breadsticks in butter and
+turn to coat. Sprinkle with sesame seeds. Bake at 450℉ for 14 to 18
+minutes, until golden brown. Serve warm.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Breads\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
 
 ### Steps
 
@@ -84,6 +223,55 @@ Bake at 350℉ (glass) or 375℉ (metal) for 45 minutes.
 Bread should be lightly browned on top and make a hollow pound.
 
 Cool on racks.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Breads\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Zucchini Bread Ingredients Bread 3 c. flour 2 c. sugar 1 t. soda ¼ t.
+baking powder 1 T. cinnamon 2 c. grated zucchini, seedless 3 eggs 1 t.
+vanilla ½ c. walnuts (optional) Glaze 3 oz. frozen orange juice
+concentrate 1 c. confectioner’s sugar Steps Preheat oven to 325℉. Mix
+flour, sugar, soda, baking powder, and cinnamon. In a separate bowl, mix
+grated zucchini, eggs, and vanilla. Add to the dry ingredients, along
+with nuts if desired. Divide into two well-greased loaf pans. Bake at
+325℉ for 40-50 minutes. Use toothpick to check. Remove from pans onto
+rack. Mix glaze ingredients until a thick syrup. Spread over tops of
+loaves while still warm.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Breads\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Zucchini Bread Ingredients Bread 3 c. flour 2 c. sugar 1 t. soda ¼ t.
+baking powder 1 T. cinnamon 2 c. grated zucchini (no seeds) 3 eggs 1 t.
+vanilla ½ c. walnuts Glaze 3 oz. frozen orange juice concentrate 1 c.
+powdered sugar Steps Preheat over to 325℉. Mix dry ingredients. In a
+separate mixing bowl, mix zucchini, eggs, and vanilla. Add to dry
+ingredients. Pour into 2 greased loaf pans. Bake at 325℉ for 40 to 50
+minutes. Use pick test. Remove from pans to racks. Glaze while warm.
 
 * * * * *
 
@@ -132,5 +320,3705 @@ Blueberry Cake {itemprop="name headline"}
 Mix cake ingredients and topping ingredients separately. Pour cake
 batter into a flat pan, then cover with the topping. Bake at 375℉ for
 40-50 minutes.
+
+* * * * *
+
+Desserts
+========
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Apple Dessert Very good. Ingredients ¾ c. margarine ¾ c. orange juice 1
+c. sugar 1 package crescent rolls 2 medium baking apples, peeled and
+quartered Steps Melt together the margarine, orange juice, and sugar.
+Wrap a crescent roll around each apple piece. Butter a baking dish.
+Evenly place the apples. Pour juice mixture over top. Bake at 350℉ for
+30 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Apple Fritters Ingredients 1 c. sifted flour 1 t. powdered sugar 1 t.
+baking powder ¼ t. salt 1 beaten egg 3 diced apples ¼ c. milk Steps Mix
+ingredients in order. Drop by teaspoonfuls in hot oil until brown. Shake
+on powdered sugar.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Banana Pudding This is Steve’s Mother’s recipe. Excellent. The oatmeal
+cookies really set the pudding off well. We don’t buy cookies with
+raisins – just plain. Ingredients 2 3 oz. packages vanilla instant
+pudding 3 c. milk 8 oz. sour cream 12 oz. frozen cool whip 12 oz.
+vanilla wafers or plain oatmeal cookies 6 bananas Steps Whisk pudding
+and milk. Whisk sour cream and cool whip. Layer: \* ½ sliced bananas \*
+wafers or cookies \* pudding Repeat.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Banana Split Dessert From Mom Cz Ingredients 2 c. graham cracker
+crumbles ⅓ c. sugar 2 sticks butter or margarine 2 eggs 2 c. powdered
+sugar 1 large can crushed pineapple, well-drained 3 bananas, sliced cool
+whip, nuts, chocolate syrup, maraschino cherries to top Steps Melt 1
+stick of butter. Mix with the sugar and graham crackers, then press in a
+9x13 pan. Beat eggs, 1 stick of butter, and the powdered sugar until
+fluffy (about five minutes). Spread over the crumble mixture in the pan.
+Spread the pineapple into the pan. Then add the bananas. Top with the
+cool whip, nuts, chocolate syrup, and maraschino cherries. Refrigerate
+before serving.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Blueberry Buckle Came from Betty Johnston, Marcia Czerniak’s sister.
+Ingredients Bars ¼ c. shortening ¾ c. sugar 1 egg ½ c. milk 2 c. sifted
+flour 2 t. baking powder ½ t. salt 3 c. blueberries Crumbs ½ c. brown
+sugar ⅓ c. flour ½ t. cinnamon ¼ c. butter Steps Cream together
+shortening and sugar. Add egg. Then add ½ c. milk and stir in dry
+ingredients. Fold in berries. Put in a 9” square pan. Add crumbs. Bake
+at 375℉ for 45-55 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Blueberry Sauce Supreme Steve’s mother’s. Use as topping for pancakes,
+waffles, ice cream, pound cake, etc. Ingredients ½ c. sugar ¼ c. orange
+juice frozen concentrate 2 T. cornstarch 3 c. blueberries (fresh or
+frozen) Steps In saucepan, combine sugar, orange juice concentrate, and
+cornstarch. Stir until smooth. Add blueberries and bring to a boil,
+stirring constantly. Boil for 2 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Bourbon Balls From Mom Cz. Ingredients 1 small package vanilla wafers 1
+c. chopped pecans 1 c. powdered sugar 2 T. cocoa (Hershey’s) 1 ½ T.
+light corn syrup 2 jiggers bourbon whiskey Steps Roll vanilla wafers to
+fine crumbs. Mix crumbs with sugar, cocoa, and nuts. Dissolve syrup in
+whiskey and add to dry ingredients. Roll into small balls and roll in
+powdered sugar.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Brown Sugar Fudge Ingredients 2 c. brown sugar ⅓ c. butter ½ c. milk
+Steps Cook until forms ball in cold water. Put in a greased dish. Cool
+and chill.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Brown Sugar Pecans Ingredients 1 egg white dash of salt ¾ c. brown sugar
+1 t. vanilla 2 c. pecans Steps Beat egg white with salt until stiff. Add
+brown sugar, vanilla, and pecans. Place separately on a greased cookie
+sheet. Bake at 250℉ for 30 minutes. Shut oven off and leave in the hot
+oven for 5-10 minutes more.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Caramel Frosting Enough for a 2-layer cake. Ingredients 3 c. sugar
+(divided) ¾ c. milk 1 egg, beaten pinch of salt ½ c. butter (cut up)
+Steps Sprinkle ½ c. sugar in heavy saucepan. Place over medium heat.
+Cook, stirring constantly, until sugar melts and syrup is golden brown.
+Combine rest of sugar and next 3 ingredients, mixing well. Stir in cut
+up butter. Stir this mixture into hot caramelized sugar. Cook over
+medium heat for 15 to 20 minutes. Stir frequently until it reaches
+thread stage (230℉) Cool 5 minutes. Beat to almost spreading consistency
+and spread immediately on cooled cake.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Cherries Jubilee Cheesecake Bars This was on a Betty Crocker cake mix
+box – sounds so good – I just haven’t made it yet. Ingredients 1 box
+Betty Crocker® SuperMoist® cherry chip cake mix ½ cup butter or
+margarine, softened 2 packages (8 oz each) cream cheese, softened 1
+container Betty Crocker® Rich & Creamy cherry frosting 3 eggs Steps 1.
+Heat oven to 325°F. In large bowl, beat dry cake mix and butter with
+electric mixer on low speed until crumbly; reserve 1 cup. In bottom of
+ungreased 13x9-inch pan, press remaining crumbly mixture. 2. In same
+bowl, beat cream cheese and frosting with electric mixer on medium speed
+until smooth. Beat in eggs until blended. Pour over crust; sprinkle with
+reserved crumbly mixture. 3. Bake about 45 minutes (about 42 minutes for
+dark or nonstick pan) or until set; cool completely. Cover and
+refrigerate at least 2 hours until chilled. For bars, cut into 6 rows by
+6 rows. Store covered in refrigerator.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+﻿Cherry-Cinnamon Jello Light and refreshing. Really great with chicken
+dishes or anytime as a treat Ingredients 1 large box cherry jello
+cinnamon imperials 2 c. applesauce 2 c. water in 4 c. glass Pyrex
+measuring cup Steps Add approximately half the bag of cinnamon imperials
+to the water. Microwave 8 minutes, then stir until all the candy is
+melted. Stir in Jello powder. Stir in 2 c. cold applesauce. Pour in dish
+and refrigerate before serving
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Chocolate Bon Bons From Mom Cz. Makes 32 Ingredients 8 squares semisweet
+chocolate 3 T. butter ¾ c. sifted powdered sugar 1 T. milk 1 T. light
+Karo ⅓ c. chopped candied fruit 1 t. rum extract Steps Melt 2 ½ squares
+of chocolate with 1 ½ T. butter over low heat. Spread into a
+wax-paper-lined 9x5 loaf pan. Chill. Partially melt 3 sqaures of
+chocolate over low heat. Remove and stir. Add the sugar, milk, and Karo.
+Stir in the fruit and extract. Spread over the chocolate layer. Chill.
+Melt remaining chocolate and butter, and spread over fruit. Chill.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Cream Puffs Mom Cz. These were always famous at her catered deals. Makes
+100-115 little ones or 12-14 large ones. Ingredients 1 c. water 1 stick
+margarine 1 c. flour 4 eggs, beaten until foamy Steps Boil the water and
+margarine until the oleo melts. Add the flour and stir well, until
+smooth (paste-like). Add the eggs and stir into the flour mixture until
+well-mixed. Drop onto greased cookie sheets. Bake at 400℉ for 15
+minutes, until lightly browned.
+
+Cut in half horizontally, pulling out any loose pieces. Fill, then
+replace the tops. Chill. Fill with egg salad, chicken salad, bologna
+salad, ham salad, pudding, french cream, or whatever you feel like. Fill
+just before serving.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Foolproof Chocolate Fudge Ingredients 3 (6 oz.) chocolate chips 1 can
+Eagle brand dash salt 1 ½ t. vanilla ½ c. chopped nuts (optional) Steps
+Heat chips and milk. Remove from heat. Add remaining ingredients. Spread
+on wax-paper-lined pan. Chill.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Forgotten Meringues From Mom Cz Ingredients 6 eggs whites 1 ½ t. lemon
+juice (or ½ t. cream of tartar) 2 c. sugar Steps Preheat over to 400℉.
+Beat egg whites with the lemon juice. Add sugar. Beat until stiff.
+Dollop onto a baking sheet covered in parchment paper, then make a small
+depression in the center of each. Fill with ice cream, fruit,
+butterscotch pudding, chocolate sauce, salted pecans or almonds, or
+toasted pecans.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+French Custard Filling From Steve’s aunt Jean Ingredients ⅓ c. sugar 1
+T. flour 1 T. cornstarch ¼ t. salt 1 ½ c. milk 1 egg yolk, slightly
+beaten 1 t. vanilla ½ c. whipped cream Steps Mix first 4 ingredients.
+Stir in milk. Cook and stir until it thickens and boils. Cook 2-3
+minutes longer. Stir small amount of mixture into egg yolk, then add
+back to first cooked mixture. Bring just to boiling point, add vanilla,
+cool, and beat until smooth. Cool. Fold in whipped cream.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Fudge Nut Roll From Mom Cz. This was always a treat at Christmas.
+Ingredients ½ c. sweet cocoa mix 4 T. butter 2 T. milk 2 c. sifted
+powdered sugar ½ t. vanilla ½ c. nuts, finely-chopped Steps Combine
+cocoa, butter, and milk in pan over low heat until the butter melts and
+the cocoa dissolves. Remove from heat. Add the vanilla and 1 c. of the
+sugar. Mix well. Blend in the rest of the sugar until stiff. Knead 2-3
+times. Shape into 12-inch rolls. Roll in nuts. Chill and cut into thin
+slices.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+German Chocolate Bars Good and rich Ingredients German chocolate cake
+mix 1 stick butter 1 egg 14 oz. sweetened condensed milk ½ c. chopped
+pecans 1 c. coconut 1 c. chocolate chips Steps Mix cake mix, egg, and
+butter. Press into 13x9 greased pan. Sprinkle coconut, then chips, then
+pecans. Then pour condensed (Eagle brand) milk over all. Bake at 325℉
+for 25 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Gingersnaps My Mom’s recipe Ingredients ¾ c. shortening 1 c. sugar 1 egg
+¼ c. molasses 2 c. flour ¼ t. salt 2 t. soda 1 t. cinnamon ½ t. cloves
+(ground) ½ t. ground ginger Steps Mix all ingredients. Roll into balls.
+Roll in white sugar. Flatten balls with fork. Bake at 375℉ for 10 to 15
+minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Glazed Pecans Good Christmas treat. Ingredients 2 T. brown sugar 2 T.
+orange juice frozen concentrate 1 ½ T. butter ½ t. salt ½ t. chili
+powder ¼ t. pepper 1 ½ c. chopped pecans Steps Cook first 6 ingredients
+in skillet until sugar dissolves. Remove from heat. Stir in pecans. Put
+on greased baking sheet. Bake at 350℉ for 10 minutes until browned.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Graham Cracker Apple Crisp Ingredients Apples sliced apples ½ c. sugar ½
+c. water Topping 1 t. cinnamon ½ c. flour ½ c. melted butter 1 ½ c.
+graham cracker crumbs ½ c. chopped walnuts Steps Bake at 350℉ for 30
+minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Graham Cracker Toffee Bars Mom made these. Ingredients 1 stick butter 1
+stick margarine ½ c. sugar finely-chopped nuts graham crackers Steps Use
+large baking sheet with sides. Spray pan, including sides. Fill sheet
+with graham crackers. Bring butter, margarine, and sugar to boil over
+high heat for one minute. DO NOT OVER BOIL. When mixture begins to
+bubble, then time for the one minute. Pour over the crackers and
+sprinkle with nuts. Spread evenly with spatula. Bake at 350℉ for 8 to 10
+minutes. Remove from pan while hot with wide spatula and put on waxed
+paper sprayed with Pam.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Homemade Graham Crackers Haven’t tried this – it’s interesting.
+Ingredients 1 c. flour 1 c. whole wheat flour 5 T. sugar pinch salt
+pinch baking soda pinch cinnamon 1 t. baking powder 3 T. butter ¼ c.
+shortening 2 T. honey 1 ½ T. molasses 1 t. vanilla ¼ c. cold water Steps
+Stir all dry ingredients. Cut in butter and shortening until crumbly.
+Add honey, molasses, vanilla, and cold water to make paste. Spread in
+jelly roll pan and score.
+
+Bake at 350℉ for 15 minutes. Cool – break at scores and remove from pan.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Mixed Nuts Holiday Recipe This would probably work with any nut
+Ingredients 3 T. margarine 4 c. almonds-pecans 4 T. brown sugar 3 T.
+white sugar ½ t. (to taste) cayenne pepper 1 t. black pepper 2 t. salt
+Steps Melt margarine in heavy skillet over medium heat. Add nuts and
+cook 2-3 minutes. Combine sugars, peppers, and salt. Sprinkle over nuts.
+Continue cooking, stirring constantly until sugar caramelizes (about 8
+minutes). Place nuts on foil and let cool. Break apart.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Mrs. Robert Kennedy’s Chocolate Roll Got this from a girl I worked with
+at the Vet’s office in Indiana. Ingredients ½ t. baking powder 6 T.
+flour 6 T cocoa ¾ c. sugar 4 eggs 1 t. vanilla ¼ t. salt Steps Sift dry
+ingredients. Beat egg yolks with sugar. Gently add dry ingredients, the
+fold in the stiffly-beaten egg whites and vanilla. Grease a jelly roll
+pan then line with waxed paper. Butter and oil or grease again. Bake at
+400℉ for 1 minutes. Turn out on wax paper that has been dusted with
+sugar and cocoa. When cool, spread with whipped cream and roll up. Keep
+in freezer until shortly before serving time.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Nutty Peach Crisp Serves 12-15. From elderly neighbor now gone — about 6
+years ago. Miss Mable. Ingredients 1 can (20 oz.) sliced peaches and
+syrup 1 package Betty Crocker butter pecan cake mix ½ c. melted butter 1
+c. flaked coconut 1 c. chopped pecans Steps Layer in order listed in
+ungreased oblong Pyrex pan. Bake at 325℉ for 55 to 60 minutes. Let stand
+15 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Orange Glazed Pecans From Mom Cz. Ingredients 4 c. pecan halves ½ c.
+frozen orange juice concentrate (undiluted) 1 ½ c. sugar ¼ t. cinnamon
+Steps Bake pecans at 350℉ for 10-15 minutes. Bring juice, sugar, and
+cinnamon to boil, stirring 1 minute. Add pecans. Drop onto foil. Let
+stand until firm.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Pecan Pastry Shell This is from my Mom. Ingredients ½ c. finely-chopped
+pecans 1 ¼ c. flour 2 T. sugar ½ c. butter 2 T. cold water 1 t. vanilla
+Steps Pulse pecans in food processor until fine. Remove. Add flour and
+sugar — pulse twice. Add butter — pulse until crumbly Combine water and
+vanilla and pour through chute while running until it forms a ball. Add
+pecans — pulse twice. Shape dough into ball — cover with plastic — chill
+20 minutes. Roll dough between plastic to 9” pie plate. Prick bottom.
+Chill 30 minutes. Line pastry with aluminum foil or wax paper and fill
+with pie weights or dried beans. Bake at 350℉ for 20 minutes. Remove
+weights and foil. Bake 2 minutes more to brown. Cool.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Pecan Tarts These are great at Christmas. Makes 2 dozen. Ingredients 3
+oz. cream cheese, softened 1 stick margarine, softened 1 c. flour 1 ½ c.
+brown sugar 2 eggs, slightly beaten 2 T. butter 1 c. pecan pieces Steps
+Cut flour into cream cheese and margarine. Shape into tiny balls and
+press into tart pans to make shells. Mix remaining ingredients and place
+in the shells. Bake at 350℉ for 25 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Pecan-Peach Cobbler, Mama’s Way This came from a Southern Living
+Magazine. DYNOMITE. I actually halved the recipe with approximate half
+measurements. Was wonderful! It’s kind of labor-intensive, but good
+enough to make it. Ingredients 12 to 15 fresh peaches, peeled and sliced
+(about 16 cups) ⅓ c. all-purpose flour ½ t. ground nutmeg 3 c. sugar ⅔
+c. butter 1 ½ t. vanilla extract 2 (15-oz.) packages refrigerated
+piecrusts ½ c. chopped pecans, toasted 5 T. sugar, divided Sweetened
+whipped cream Steps 1. Preheat oven to 475°. Stir together peaches,
+flour, nutmeg, and 3 cups sugar in a Dutch oven. Bring to a boil over
+medium heat; reduce heat to low, and simmer 10 minutes. Remove from
+heat; stir in butter and vanilla. Spoon half of mixture into a lightly
+greased 13- x 9-inch baking dish. 2. Unroll 2 piecrusts. Sprinkle ¼ cup
+pecans and 2 Tbsp. sugar over 1 piecrust; top with other piecrust. Roll
+to a 14- x 10-inch rectangle. Trim sides to fit baking dish. Place
+pastry over peach mixture in dish. 3. Bake at 475° for 20 to 25 minutes
+or until lightly browned. Unroll remaining 2 piecrusts. Sprinkle 2 Tbsp.
+sugar and remaining ¼ cup pecans over 1 piecrust; top with remaining
+piecrust. Roll into a 12-inch circle. Cut into 1-inch strips, using a
+fluted pastry wheel. Spoon remaining peach mixture over baked pastry.
+Arrange pastry strips over peach mixture; sprinkle with remaining 1
+Tbsp. sugar. Bake 15 to 18 minutes or until lightly browned. Serve warm
+or cold with whipped cream.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Pineapple Delight This came from Lucy Clark to Hazel Todd to Mable Estes
+(3 original Gay residents). Ingredients 1 large can crushed pineapple 2
+packages lemon or lime jello 2 c. buttermilk 9 oz. cool whip nuts,
+finely chopped Steps Heat pineapple can contents to boiling. Add jello.
+Fold in buttermilk, then cool whip. Add finely chopped nuts.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Pistachio Dessert Another version. This might be Mom’s. Ingredients 2
+small boxes pistachio pudding 1 15 oz. can crushed pineapple, including
+½ c. syrup 1 c. chopped walnuts 1 c. mini marshmallows 16 oz. cool whip
+Steps Fold all other ingredients into the cool whip.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+﻿Pistachio Dessert Got this from a friend in Indiana. Yummy Ingredients
+Crust 4 oz. Ritz crackers, crushed 1 stick margarine, melted Filling 2
+boxes pistachio jello instant pudding 1 ½ c. milk ½ gal vanilla ice
+cream, partially-thawed Steps Crust Mix ingredients. Press into a 9x13
+pan. Bake at 350℉ for 10 minutes. Filling Mix ingredients. Put over
+baked crust. Top with cool whip and finely-chopped nuts and shredded
+chocolate. Chill.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Poor Man’s Whipped Cream Mom Cz. Ingredients 1 c. milk 4 T. flour 1 c.
+oleo 1 c. sugar 2 t. vanilla Steps Cook milk and flour until like a
+paste. Set aside. Beat oleo for 4 minutes, then add the sugar and
+vanilla. Beat for 4 more minutes. Add the paste and beat for another 4
+minutes. Chill.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Powdered Sugar Put granulated sugar in blender and turn on low speed for
+3 to 4 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Desserts\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Praline Pecans Ingredients ½ c. butter (melted) 2 c. sugar ½ c.
+evaporated milk 1 t. vanilla ½ t. salt 7 c. pecan halves Steps Line a
+large cookie sheet with wax paper. In a medium saucepan combine butter,
+sugar, milk, vanilla, and salt. Cook, stirring constantly until a candy
+thermometer reaches 236℉ Remove from heat and allow to rest 4 minutes.
+Add pecans and stir quickly to coat pecans. Quickly pour onto wax paper
+and separate. Allow pecans to fully cool. Store in an airtight
+container.
+
+* * * * *
+
+Misc
+====
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+3 Bean Casserole Also called baked beans. Very good. Ingredients ½ lb.
+hamburger ½ lb. bacon, chopped ½ c. onion, chopped 2 cans pork & beans 1
+can kidney beans, drained 1 can butter beans, drained ⅓ c. ketchup ½ c.
+brown sugar ½ c. sugar 1 t. salt 1 t. mustard 1 t. vinegar Steps Brown
+hamburger – drain – set aside. Brown onions and bacon – add to hamburger
+(with bacon grease). Mix remaining ingredients with meat and onions.
+Bake at 350℉ for 45 minutes, or heat on medium for 1 ½ hours in a crock
+pot. Variations This is also called 4th of July Casserole. The
+difference is the addition of \* ½ c. spicy barbeque sauce \* 2 T.
+molasses \* dark brown sugar instead of regular to the recipe above.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Apple Cider Vinaigrette Ingredients ½ c. extra virgin olive oil ¼ c.
+cider vinegar 4 t. sugar 1 T. brown sugar 1 T. balsamic vinegar 1 t.
+Worcestershire sauce ½ t. salt Steps Whisk all together. Store in a
+glass jar.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Baked Beans Tasty. Ingredients
+
+Make it big Standard batch Ingredient 1 Gallon 1 can (31 oz.) Pork &
+beans 3 ½ c. 1 c. dark brown sugar 1 ¾ c. ½ c. ketchup 3 ½ T. 1 T.
+mustard 3 ½ T. 1 T. Worcestershire sauce 1 ¾ ½ medium onion, chopped 7
+T. 2 T. vinegar 12 3 slices bacon Steps Mix all together – place bacon
+on top. Bake at 350℉ for 1 hour.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Baked Chicken Breast Haven’t made this yet but was told it’s excellent.
+Ingredients 8 chicken breasts, boneless 1 jar dried beef 8 slices bacon
+1 can cream of mushroom soup 1 small sour cream Steps Soak dried beef in
+boiling water for 2-3 minutes. Chop and place in baking dish. Wrap each
+piece of chicken in bacon. Place on dried beef. Mix sour cream, soup, ½
+can of water. Pour over chicken.
+
+Bake at 250℉ for 4 hours. Do not salt. Serve over rice.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Barbecue Sauce Ingredients 3 onions 2 T. vinegar 2 T. Worcestershire
+salt 1 t. paprika ½ t. red pepper ½ t. black pepper 1 t. chili powder ¾
+c. ketchup ¾ c. water Steps Mix ingredients.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Beer Biscuits These are from Indiana. Ingredients 2 c. biscuit mix ½ c.
+shredded cheddar cheese ½ c. beer Steps Mix biscuit mix and cheese. Make
+a well in center and add beer. Stir just until clings together. Knead on
+flour surface 5 times. Roll or pat into rectangle. Cut into triangles
+and bake on an ungreased sheet. Bake at 450℉ for 8-10 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Benne Brittle Ingredients 1 ¼ c. benne (sesame) seeds 2 c. sugar t t.
+vanilla extract Steps Cook seeds in skillet over medium heat, stirring
+often, for 8 minutes or until seeds turn brown. Remove from skillet.
+Cook sugar and 2 T. water in skillet over low heat, stirring constantly,
+for 10 minutes or until sugar melts. Quickly stir in seeds and vanilla.
+Pour onto well-buttered baking sheet using a metal spatula. Cool
+completely (20 minutes or so). Break into pieces. Store in air-tight
+container.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Bran Muffin “Here’s what’s cookin. Recipe from the kitchen of Mom Cz.”
+Ingredients 2 c. boiling water 2 c. all bran 4 c. bran buds 5 t. baking
+soda 1 qt. buttermilk 3 c. sugar 1 c. shortening 5 c. flour 2 t. salt 4
+eggs, beaten Steps Don not use mixer. Pour boiling water over bran buds
+and all bran. Stir and cool. Dissolve soda in buttermilk. It foams and
+swells (use large bowl). Stir and set aside. Cream shortening and sugar.
+Add flour, salt, eggs, and buttermilk. Add remaining ingredients and mix
+thoroughly. Bake at 375℉ for 15-20 minutes. Batter can be kept for 5-6
+weeks in refrigerator.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Breakfast Squares Very tasty. These are called breakfast squares, but
+make an excellent dessert. Ingredients 2 cans crescent rolls 2 8 0z.
+cream cheese (room temperature) ¼ c. sugar 1 t. vanilla Steps Flatten 1
+can of crescent rolls in a 13x9 pan. Mix the cream cheese, sugar, and
+vanilla. Spread on the crescent roll in pan. Cover with the second can
+of crescent rolls, then sprinkle with cinnamon sugar. Bake at 350℉ for
+25 to 30 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Broccoli Cheese Casserole Saute Items 1 stick butter 1 onion, medium 1
+can sliced or diced water chestnuts Mix Items 1 can cream of celery soup
+1 can water 1-7 oz. box minute rice (dry) 10 oz. cheez whiz 2 boxes
+frozen chopped broccoli Steps Mix all. Use large casserole dish. Bake
+uncovered at 300℉ for 20 to 30 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Brown Rice Ingredients 1 c. white long grain rice 1 c. french onion soup
+1 c. beef consomme 1 stick margarine Steps Mix all together. Bake in a
+covered casserole at 350℉ for 30 to 45 minutes. Let stand.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Butter Balls Good. Ingredients ½ c. unsalted butter, softened 3 T.
+powdered sugar 1 c. flour 1 c. finely-chopped pecans Steps Use a mixer –
+cream butter and powdered sugar. Stir in flour and pecans. Chill 2
+hours.
+
+Roll into marble-size balls. Bake at 325℉ for 20 minutes Variations
+Dredge baked cookies in powdered sugar or cocoa, or roll unbaked balls
+in sugar sprinkles.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Butter Spread Ingredients 1 lb. margarine 1 c. buttermilk
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Cajun Shrimp Sauce Ingredients 1 c. chili sauce 1 c. ketchup ½ c.
+horseradish ½ c. fresh parsley juice of 1-2 lemons ¾ t. salt cayenne
+pepper sauce
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Cheddar-Topped Homestyle Macaroni and Cheese Close to homemade taste
+Ingredients 2¼ c. hot water 1 package Deluxe Kraft Macaroni & Cheese ¼
+t. ground red or black pepper 1 ½ c. shredded sharp cheddar cheese 1 c.
+sour cream ¼ c. crushed butter crackers 1 T. butter (melted) Steps Whisk
+hot water, cheese sauce from Kraft Deluxe package and pepper in 1 ½ to 2
+Qt. Pyrex. Stir in dry pasta and 1 c. cheddar cheese. Cover and bake at
+375℉ for 30 minutes. Uncover and stir in sour cream.
+
+Mix rest of cheese, cracker crumbs, and melted butter. Sprinkle over
+top. Bake an additional 10 minutes, uncovered. Let stand 5 minutes.
+Variations I use more crackers and cheese over top than they call for.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Cheese Ball “Here’s what’s cookin’. Recipe from the kitchen of Dolly
+Cz.” Ingredients 2 (8 oz.) cream cheese 1 (8 ½ oz.) can crushed
+pineapple, drained 2 c. pecans ¼ c. green pepper, finely chopped 2 T.
+onion, finely chopped 1 T. seasoned salt Steps Mix together only using 1
+c. nuts. Roll into ball and then in nuts. Refrigerate.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+﻿Cheese Ball “Here’s what’s cookin’. Recipes from the kitchen of Dolly
+Cz.” Ingredients 8 oz. cream cheese ½ lb. grated cheddar cheese 1 ½ t.
+Worcestershire sauce ¼ t. Tabasco sauce 1 clove garlic, finely minced ½
+c. pecans, finely chopped Steps Mix all ingredients, except pecans. Roll
+into ball and refrigerate ½ hour. Roll in pecans and wrap in foil.
+Refrigerate before serving.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Cheese Ball “Here’s what’s cookin’. Recipes from the kitchen of Dolly
+Cz.” Ingredients 1 c. grated cheddar cheese 8 oz. cream cheese 1 T.
+chopped onion 1 T. lemon juice 1 T. Worcestershire sauce ¼ lb. soft
+butter Steps Mix all ingredients. Chill. Roll in nuts.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Cheese Ball Written on back of a U.S. Postal Service routing slip.
+Ingredients 16 oz. cream cheese 1 dry ranch-style dressing pack bacon
+bits Steps Mix cream cheese and ranch dressing. Roll into ball. Chill.
+Roll in bacon bits.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Cheese Bars Ingredients Cake Butter recipe yellow cake mix 1 egg, beaten
+¼ lb. butter, melted Frosting 1 lb. powdered sugar 8 oz. cream cheese 2
+eggs, beaten Steps Use a wooden spoon to mix the cake. Spread into a
+9x13 pan. Mix frosting ingredients and spread over the cake. Sprinkle
+with crushed nuts. Bake at 325℉ for 35-45 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Cheese Sauce From Mom Cz. Ingredients 2 T. butter 2 T. flour 1 c. milk
+(less for a thicker sauce, like for potatoes) 5 slices cheese Steps
+Combine ingredients over heat until cheese is melted.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Cheesy Drop Biscuit From Mom Cz. Ingredients 2 c. flour ½ t. salt 4 T.
+shortening 2 t. baking powder 1 c. grated American cheese 1 c. milk
+Steps Mix all ingredients well. Bake at 450℉ for 12-15 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Chicken and Dressing and Gravy Steve’s mother’s. Very good. Ingredients
+Cornbread 2 c. buttermilk cornmeal mix 5 T. vegetable oil 2 T. sugar
+(optional) 2 eggs 1 ½ c. milk Chicken 1 large package chicken leg
+quarters (4-5) seasoned salt pepper to taste Dressing 1 can cream of
+chicken soup 1 can cream of onion soup 1 can cream of celery soup Gravy
+1 can cream of chicken soup 2 eggs, hard-boiled ¼ of chicken chicken
+broth Steps Cornbread Bake at 450℉ for 20-25 minutes, until brown.
+Chicken Boil chicken. Season with seasoned salt and pepper. Cool. Tear
+chicken into small pieces. Save the broth. Dressing Crumble cornbread
+into very fine pieces. Add ¾ of chicken and all soups. Season with
+seasoned salt, salt, and pepper. The more pepper the better. Add broth
+one cup at a time, mixing well – until the mixture fall off the spoon in
+a clump. Bake at 350℉ for 45 minutes, until set. Gravy Chop eggs into
+small chunks in a saucepan. Add chicken soup, chicken, and ½ c. or more
+broth. Bring to a boil and add pepper to taste. Simmer on low – add more
+broth if needed.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Chicken Cacciatore in 20 Minutes This came from a friend’s mother in
+Michigan. Ingredients 1 lb. boneless chicken strips ½ c. onion, chopped
+2 T. oil 16 oz. jar spaghetti sauce 1 ¼ c. water ½ t. oregano ½ t. basil
+⅛ t. red pepper 1 c. green pepper strips 1 ½ c. minute rice Steps Brown
+chicken, onion, and garlic in oil. Add tomatoes, sauce, and seasonings.
+Stir in rice. Cover and remove from heat. Let stand 5 minutes. Stir
+before serving.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Chicken Supreme Very good. Makes a lot. Needs to chill overnight.
+Creamettes I don’t find down here. If you find it let me know.
+Ingredients 1 pkg Creamettes 1 can chicken broth 1 c. milk 1 can cream
+of chicken soup 1 can cream of celery soup 1 can mushrooms drained 1
+onion chopped 1 small jar pimiento 5-6 eggs boiled and chopped 1 lb.
+Velveeta 3 c. chicken (cut up) Steps Mix together. Refrigerate
+overnight. Bake at 350℉ for 1 ½ hours.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Clam Dip Dolly Cz. Ingredients 2 lb. Kraft Old English cheese 2 c.
+minced clams (don’t drain) ½ bottle (6 oz.) beer 1 shot Worcestershire
+sauce Steps Melt cheese over low heat or in a double boiler. Add clams
+and juice. Add other ingredients and stir thoroughly. Cook. If too
+thick, add more beer.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Coleslaw for Freezing From Mom Cz. Ingredients Slaw 1 medium cabbage,
+shredded 1 carrot, grated 1 green pepper, chopped 1 t. salt Dressing 1
+c. vinegar ¼ c. water 2 c. sugar 1 t. celery salt 1 t. whole mustard
+seed Steps Mix salt with cabbage. Let stand 1 hour. Squeeze out excess
+water. Add carrots and peppers.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Coney Island Hot Dog Sauce From Mom Cz. Ingredients 5 lb. hamburger,
+browned and drained 3 big Spanish onion, chopped 1 t. cinnamon 1 T.
+oregano 1 T. cumin 4 T. paprika 4 T. chili powder 1 T. celery salt 1 T.
+garlic salt 2 T. salt 1 ½ T. ground red pepper Steps Mix all. Simmer for
+45 minutes to 1 hour.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Confetti Casserole From Mom Cz. Ingredients 2 c. macaroni, cooked 1
+package smokey links, cubed 1 package mixed vegetables, cooked 5 minutes
+1 can cream of chicken (or mushroom) soup 1 c. velveeta, cubed Steps Mix
+all together in a casserole dish. Bake at 350℉ for 30 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Corned Beef Casserole From Mom Cz. Ingredients 6 oz. noodles (meal size
+package) 1 can corned beef ½ lb. cheese (Parmesan, American, Swiss, or
+whichever you prefer) 1 can cream of chicken soup 1 c. milk Steps Cook
+noodles in salted water for 10 minutes. Heat milk, soup, and cheese
+until cheese melts. Cut up meat and mix all together. Top with cracker
+or potato chip crumbs. Bake at 350℉ for 60 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Crock Pot Fresh Green Beans Delicious and tender — nicely flavored. This
+is my own deal. I leave the green beans whole after snapping off the
+ends. Ingredients 4-6 lb. boneless pork loin McCormick Montreal steak
+seasoning 2 lb. green beans 1 can chicken broth 2 packets Goya ham
+seasoning Steps Sprinkle steak seasoning on the pork loin, then saute
+until slightly brown. Put green beans in crock pot. Pour just enough
+chicken broth to barely top the beans. Add the 2 packets of seasoning.
+Place sauteed pork loin on top — single layer. Deglaze pan and put the
+pork loin drippings in the crock pot. Cook on low for 8 to 10 hours (or
+shorter on high).
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Crusty Beef-Cheese-Noodle Casserole (Baked Spaghetti) From Steve’s aunt
+Jean. Makes 8-10 servings. Ingredients 2 T. oil 1 large onion, chopped 2
+lb. ground beef 4 cans (10 ¼ oz. each) meatless mushroom sauce for
+spaghetti 1 t. salt 1 lb. spaghetti noodles or macaroni (cooked and
+drained) 1 lb. sharp cheddar, grated seasoning salt Steps Cook onions in
+oil until golden. Add meat and brown. Add sauce and salt, and warm until
+heated. Arrange in casserole: half of noodles – sauce – cheese –
+sprinkle of seasoning salt. Make another layer. Bake at 325℉ for 60
+minutes. Top should be browned.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Date Cream Cheese Roll-ups From Mom Cz. Makes 8 dozen. Ingredients 1 c.
+butter ½ lb. cream cheese 2 c. flour ¼ t. salt powdered sugar pitted
+dates Steps Cream butter and cream cheese. Blend in flour and salt.
+Chill. Roll ⅛” thick on board with powdered sugar. Cut in 1x3” strips.
+Put date in center and roll. Put folded-side-down. Bake at 375℉ for 15
+minutes. Sprinkle with powdered sugar. Optionally roll in finely-ground
+nuts or candied fruit.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Day Before Mashed Potatoes Church function hit. Ingredients 9 potatoes
+(approximately) 6 oz. cream cheese 1 c. sour cream 2 t. onion powder 1
+t. salt ¼ t. pepper 2 T. butter Steps Boil potatoes in salted water.
+Mash potatoes and add rest of ingredients. Refrigerate until ready to
+bake.
+
+Spread into a lightly-greased baking dish. Bake at 350℉ for 30 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Dijon Sauce Ingredients 1 c. beef broth 1 T. cornstarch 1 T. Dijon
+mustard 1 t. honey 1 t. Worcestershire sauce Steps Cook and stir until
+bubbly, then cook 2 minutes more.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Dressing for Cabbage From Mom Cz. Ingredients 1 c. sugar 1 t. salt 1 t.
+dry mustard 1 t. celery seeeds 1 c. vinegar ⅔ c. vegetable oil Steps Mix
+sugar, salt, mustard, and celery seeds in pan. Add vinegar and oil and
+bring to a boil, stirring constantly. Cool, the pour over cabbage. Toss,
+cover, and refrigerate.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Dried Beef Cheese Ball Marilyn Unseld Ingredients 2 (8 oz.) packages
+cream cheese ⅓ jar (10 oz. size) salad green olives (chopped) – ½ c. ¼
+lb. chopped dried beef ½ jar sharp Old English cheese 1 t. minced onion
+dash Worcestershire sauce Steps Combine all ingredients, form into ball
+and garnish with sliced olives.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Easy Dill Cucumbers Ingredients 2 T. white wine vinegar ½ t. salt ½ t.
+dry mustard ¼ t. minced dried dill weed cucumbers, thinly-sliced Steps
+Mix together. Chill.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Easy Pizza Crust This is a batter to pour into a cookie-type pan with
+sides. Ingredients 1 c. flour 1 t. salt 1 t. Italian seasoning or leaf
+oregano ⅛ t. pepper 1 egg ⅔ to ¾ c. milk Steps Grease and light dust
+pan. Bake at 425℉ for 10 to 15 minutes or until brown.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Easy Rolls Different — but good. A little heavy. Makes 6 Ingredients 1
+c. self-rising flour ½ c. milk 1 t. sugar 2 T. mayonnaise Steps Preheat
+over to 350℉ Mix flour and milk. Add sugar and mayonnaise. Pour into
+slightly-greased muffin tins. Bake fo 12-15 minutes.
+
+If tops look undone, put under broiler for a short time until browned.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Eggplant Patties Written on back of a U.S. Postal Service routing slip.
+Ingredients eggplant grated cheese crumbled Ritz crackers 1-2 eggs green
+onion Steps Peel and cube eggplant. Soak in salt water for 30 minutes.
+Cook until soft. Mix in other ingredients. Form into patties and pan fry
+until browned.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Escalloped Chicken From Mom Cz. Ingredients 4-5 lb. stewing chicken 3 T.
+flour 1 c. milk 1 c. chicken broth 8-10 crackers ⅔ c. butter or
+margarine 4 eggs, hard-boiled Steps Cook chicken til done. Remove meat
+from bone and cut up. Place in a 2 qt. casserole dish. Make a sauce of
+flour, milk, and broth. Add melted butter. Add eggs (chopped). Crush
+crackers – add some to sauce and pour over chicken. Top with rest of
+crumbs. Bake at 350℉ for 45 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Escalloped Chicken From Mom Cz. Another version. Serves 15. Ingredients
+3 c. cooked and diced chicken ¾ c. celery, diced 1 t. salt 3 c. chicken
+broth 10 slices bread (cubed) 1 c. cracker crumbs 3 eggs 1 can mushroom
+pieces 2 T. onion, chopped Steps Pour broth and eggs over bread and
+cracker crumbs. Mix thoroughly. Add salt, celery, onion. Mix well. Fold
+in chicken and mushrooms. Pour into 9x13. Top with some buttered bread
+crumbs. Bake at 300℉ for 60 minutes, until knife comes out clean.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Escalloped Corn Ingredients 1 can cream-style corn 1 egg, beaten ½ c.
+milk ½ c. cracker or bread crumbs ¼ c. onion, chopped ¼ c. green pepper,
+chopped 2 T. pimientos, chopped 1 T. butter salt and pepper to taste 1
+c. chopped ham (optional) ¼ c. shredded cheese (optional) Steps Combine
+ingredients in a 1 qt. casserole dish. Bake at 350℉ for 35 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Fancy Strawberries for a Party This is ½ of recipe Ingredients 4 c.
+flaked coconut 2 packages strawberry jello 1 c. Eagle brand milk Steps
+Sprinkle jello over coconut and pour in milk. Mix up. Set in
+refrigerator for ½ hour or more. Shape strawberries and roll in red
+cookie sugar. Dent top and insert green
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+French Onion Beef Dip From Mom Cz. Ingredients 1 lb. french onion dip 8
+oz. cream cheese 2 packages dried beef 1 medium green pepper 1 t. onion
+powder ¼ - ⅛ t. garlic powder Steps Mix and heat.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+French Onion Soup with Cheese Toast From Mom Cz. Ingredients 3 T. butter
+2 large onions, halved and thinly sliced 1 T. flour 4 c. beef broth ¼ t.
+salt ⅛ t. pepper 4 slices French bread (3/4” thick) 4 thin slices Swiss
+cheese Steps Melt 2 T. butter. Reduce heat and cook onions until golden.
+Sitr in flour and cook for 1 minute. Add broth, salt, and pepper, then
+cook for 10 minutes. Spread remaining butter on bread and top with
+cheese. Broil each piece and put in bottom of bowl. Pour soup over
+bread.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Hamburger Stroganoff From Mom Cz. Ingredients 4 oz. egg noodles (4 c.
+raw) ¾ c. onion 1 lb. ground beef 1 can cream of mushroom soup ½-1 c.
+milk ¾ t. salt ¼ c. ketchup 2 t. Worcestershire sauce Steps Cook
+noodles. Brown onions and meat. Mix all together. Bake at 350℉ for 25-30
+minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Hanky Pankies Great for parties. After baking put on electric warming
+tray. Can be frozen ready-to-bake ahead of time. Ingredients 1 lb. pork
+sausage 1 lb. ground beef 1 lb. Velveeta ½ t. oregano ½ t. garlic salt
+red pepper to taste (optional) pumpernickel or rye bread (party size)
+Steps Cook and drain meat. Stir in cheese until melted. Add other
+ingredients. Spread on slices of bread. Put on cookie sheet. Bake at
+350℉ for a couple of minutes, then place under broiler for 5 minutes
+until the cheese bubbles.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Hash Quiche From Mom Cz. Ingredients 30 oz. Mary Kitchen hash 1 c.
+shredded Swiss cheese 1 c. celery, chopped ¼ c. green onion, sliced 4
+eggs, beaten 1 c. milk ½ c. biscuit mix Steps Combine hash with one egg
+and press into pan. Sprinkle cheese, celery, and ½ of onion into crust.
+Mix other 2 eggs and biscuit mix until smooth. Blend in milk and pour
+over all. Sprinkle with green onion. Bake at 375℉ for 35-40 minutes. Let
+rest 5 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Hodel Dressing Western style. Ingredients ¾ c. sugar 1 t. paprika 1 t.
+salt 1 t. minced onion ⅓ c. ketchup ⅓ c. vinegar 1 c. oil 1 t. celery
+salt Steps Combine dry ingredients and ketcup in a mixer. Add the
+vinegar and oil alternately. And the celery salt and mix.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Hot Artichoke Dip Great dip. Ingredients 1 14 oz. can artichoke hearts,
+drained and finely chopped 1 c. mayo 8 oz. Parmesan cheese (or
+mozzarella) Cayenne pepper and salt to taste Steps Mix all ingredients.
+Bake in a casserole dish at 350℉ for 30 minutes. Serve warm (crock pot)
+with crackers and/or corn chips.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Italian Vegetable Dip From Mom Cz. Ingredients 1 c. mayonnaise 1 c. sour
+cream 1 package Italian dressing mix ¼ c. red pepper, chopped ¼ c. green
+pepper, chopped Steps Combine ingredients and chill.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Jalapeno Salami Dip From Mom Cz. Ingredients 1 lb. jalapeno pepper dip 8
+oz. cream cheese 1 T. onion flakes 4-5 slices cotto salami, diced Steps
+Mix, then bake at 350℉ for 15-20 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Kielbasa and Apple Pasta Bake Ingredients 8 ounces dried rigatoni or
+penne pasta 2 c. milk 2 T. flour 1 cup shredded cheese (4 oz.) ½ t. salt
+½ t. bottled hot pepper sauce 3 medium Fuji or Granny Smith apples,
+cored and cut into ½-inch cubes 8 oz. cooked kielbasa, halved lengthwise
+and sliced ¼-inch thick 1 medium green onion, thinly sliced Steps
+Preheat oven to 350℉. Coat a 2-quart baking dish or casserole with
+nonstick cooking spray; set aside. Cook pasta according to package
+directions in a large saucepan. Drain and return to saucepan; set aside.
+Meanwhile, in a medium saucepan whisk together milk and flour. Cook and
+stir over medium heat until thickened and bubbly. Cook and stir 1 minute
+more. Remove from heat. Stir ½ cup of cheese, salt and hot pepper sauce
+into the milk mixture until smooth. In the large saucepan toss together
+the cooked pasta, apples, kielbasa and cheese sauce. Transfer to
+prepared baking dish; cover with foil. Bake in preheated oven for 20
+minutes. Uncover and carefully stir pasta mixture. Sprinkle with
+remaining ½ cup cheese and the green onion. Bake 10-15 minuted more or
+until cheese is melted and sauce is bubbly. Remove from oven and let
+stand for 10 minutes before serving.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Leftover Mashed Potatoes Ingredients ½ of potatoes sauteed onions
+sauteed mushrooms sour cream other half of potatoes grated cheese Steps
+Layer in a casserole dish in order. Bake at 350℉ for 20 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Meatloaf Really good. Especially good made with ground venison.
+Ingredients 1-1 ½ lb. ground beef, lean (or ground venison) ¼ c. Heinz
+57 1 egg ½ c. seasoned bread crumbs ¼ c. finely chopped onion ¼ c. milk
+½ t. salt pepper to taste Steps Mix ingredients. Mound on a broiling pan
+to let grease through. Bake at 350℉ for 60 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Mexican Dip This is mine. Goes really well at a family get-together or
+party. Serve chilled with corn chips. Ingredients big can refried beans
+hamburger or sausage, fried and crumbled 1 pint sour cream 1 package El
+Paso taco powder chopped jalapenos (optional) 1 jar Marie’s Avacado
+dressing tomato, chopped green pepper, chopped black olives, sliced
+sharp cheddar cheese, grated Steps Layer ingredients on a large, flat
+plate. 1. beans 2. meat 3. sour cream mixed with taco powder and
+optional peppers 4. avacado dressing 5. vegetables 6. cheese 7. olives
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Miniature Blintz Steve’s sister made these – tasty Ingredients 2 8 0z.
+cream cheese 2 egg yolks ½ t. lemon juice ½ c. sugar 2 loaves bread 2
+sticks butter 1 c. brown suga 3 t. cinnamon Steps Mix first 4
+ingredients and set aside. Cut crust off bread and roll out flat. Spread
+cream cheese mixture on bread and them roll up. Dip in butter and roll
+in brown sugar and cinnamon. Freeze for 3 hours or more, then cut into
+thirds. Bake at 350℉ for 10-15 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Mississippi Mama Mud Slide Ingredients Crust 1 stick butter 1 c. flour 1
+c. chopped nuts Cheese 8 oz. cream cheese 1 c. powdered sugar 1 c. cool
+whip Topping 4 oz. chocolate instant pudding 4 oz. vanilla instant
+pudding 2 c. cold milk Steps Crust Combine and press into 9x13 pan. Bake
+at 350℉ for 20 minutes. Let cool. Cheese Combine and spread over crust.
+Topping Mix until thick and creamy. Pour over the cheese.
+
+Chill. Top with cool whip and 1 grated Hershey bar.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Moon Rocks Mom made these. Ingredients 1 lb. 10X sugar 1 stick melted
+margarine 1 (6 oz.) frozen orange concentrate (thawed) 1 t. orange peel
+1 c. ground pecans 1 lb. crushed vanilla wafers 1 lb. coconut (divided
+into 2 portions) Steps Combine all the ingredients except half the
+coconut. Shape into balls, then roll in the remaining coconut. Makes 96
+candies. Store in refrigerator.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Mushroom Balls From Mom Cz. Party. Ingredients ½ lb. mushrooms, chopped
+and washed ¼ c. butter 3 T. flour ¾ t. salt ¼ t. MSG 1 c. light cream 2
+T. onion, chopped 1 T. lemon juice Steps Saute mushrooms in butter.
+Blend in flour, salt, and MSG. Stir in cream, then cook until thick.
+Remove from heat. Make rolls, then sprinkle top with melted butter. Bake
+at 400℉ for 10 minutes. Chill and slice.
+
+To make rolls – cut crust from bread and roll out. Top with sauce and
+roll like jelly roll.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Next Best Thing to Robert Redford Also known as “Better Than Sex.”
+Ingredients Crust 1 c. walnuts 1 ½ c. flour 1 ½ sticks oleo, melted
+Filling 8 oz. cream cheese 1 c. powdered sugar 16 oz. cool whip 1 (5 ⅝
+oz.) package vanilla instant pudding 1 (5 ⅝ oz.) package butterscotch
+instant pudding 3 c. milk Steps Crust Mix ingredients and press into a
+9x13 pan. Bake at 350℉ for 20 minutes. Filling Mix sugar and cream
+cheese. Add half the cool whip. Pour into crust. Mix pudding and milk.
+Pour over cream cheese mixture. Top with the other half of the cool whip
+and sprinkle with nuts or shredded chocolate. Chill 3-4 hours. Keep
+refrigerated.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+No Name Pecans Ingredients 2 T. brown sugar 2 T. frozen orange juice
+concentrate 1 ½ T. butter ½ t. salt ½ t. chili powder ¼ t. pepper 1 ½ c.
+chopped pecans Steps Cook first 6 ingredients in skillet until the sugar
+dissolves. Remove from heat. Stir in the pecans. Spread onto greased
+baking sheet. Bake at 350℉ for 10 minutes, until brown. Cool.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Note Any of Mrs. Turner’s recipes that call for cream of mushroom soup,
+she probably changed to cream of chicken.
+
+Since she won’t eat mushrooms, she doesn’t think anyone should.
+
+So, if something sounds like it might be better with cream of mushroom,
+just substitute it for cream of chicken.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+One Serving Cheese Puff Makes 1. Easy and quick. Ingredients 1 ½ slices
+white or whole wheat bread, buttered 1 egg ½ c. milk ¼ c. shredded
+American cheese ⅛ t. onion salt ⅛ t. salt 6-8 drops hot sauce Steps Cut
+bread in strips and place on sides and bottom of 10 oz. custard cup,
+buttered side down. In a bowl lightly beat egg and rest of ingredients.
+Pour in custard cup. Place on a baking sheet. Bake at 350℉ for 35 to 40
+minutes, until puffy and brown.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Oven Fried Salmon Croquettes Ingredients 1 egg 1 lb. can salmon ¼ c.
+grated cheese ½ t. salt 1 c. bread crumbs 1 T. minced onion 1 T. oil ⅛
+t. pepper Steps Beat egg lightly. Add onion, oil, salt, and pepper. Add
+salmon liquid. Add crumbs. Add cheese and salmon. Shape into balls or
+patties. Roll in crispy mix (panko or cracker crumbs). Spray pan with
+PAM. Bake at 350℉ for 35 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Party Nuts Ingredients 1 ½ c. blanched whole almonds ½ c. sugar 2 T.
+butter ½ t. vanilla Steps Line a baking sheet with buttered foil. In a
+heavy skillet combine almonds, sugar, and butter. Cook on medium heat,
+stirring for 9 minutes or until sugar melts and turns brown. Remove from
+heat and add vanilla. Spread on foil and let cool.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Party Punch From Mom Cz. Ingredients 8 c. ginger ale 4 c. sparkling
+water 1 c. orange juice ¾ c. lemon juice ¾ c. lime juice Steps Combine
+ingredients.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Party Snack From Mom Cz. Ingredients 2 c. rice Chex 2 c. wheat Chex ¼ c.
+butter, melted 1 T. Worcestershire sauce ¼ t. garlic salt ¼ t. celery
+salt 1 c. Cheerios 1 c. cheese crackers 1 c. thin pretzel sticks 1 c.
+mixed nuts Steps Mix all ingredients thoroughly. Bake at 250℉ for 60
+minutes, stirring every 15 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Pecan Chicken Casserole Ingredients Crumb Mixture 1 c. flour 1 c. (4
+oz.) finely shredded cheddar cheese ¾ c. finely chopped pecans ½ t. salt
+¼ t. paprika ⅓ c. oil Filling 4 eggs 1 c. (8 oz.) sour cream 1 c.
+chicken broth 4 c. diced cooked chicken ½ c. finely shredded cheddar
+cheese ¼ c. finely chopped onion ¼ c. mayo ¼ t. dill seed ⅛ t. hot
+pepper sauce Steps In a large bowl, combine the first six ingredients.
+Set aside ½ cup of crumb mixture for topping. Press remaining crumb
+mixture onto the bottom of a greased 13-in. x 9-in. baking dish. (Crust
+will be crumbly.) Bake at 350° for 10 minutes or until lightly browned.
+In a large bowl, combine the remaining ingredients. Pour over crust.
+Sprinkle with reserved crumb mixture. Bake at 350° for 25-30 minutes or
+until a knife inserted near the center comes out clean. Let stand for 10
+minutes before cutting.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Pecan Rice Ingredients 1 ½ c. brown rice 3 T. butter 1 chopped onion 1
+c. pecans ¼ c. parsley 1 T. ginger 1 T. basil or ½ t. dried basil salt
+and pepper Steps Saute onion. Add cooked rice. Add pecans, herbs, and
+seasonings. Stir and simmer 10 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Pesto Real good to eat with roast beef. Also goes nicely on pasta.
+Ingredients 2 c. basil leaves (no stems) ⅓ c. pine nuts,
+coarsely-chopped 3 large cloves garlic ½ c. extra virgin olive oil ½ c.
+Parmesan or Romano cheese, grated salt and pepper to taste Steps Rinse
+and pat dry basil. Put in food processor with pine nuts. Pulse a few
+times. Add garlic and pulse a few more. While processor is running,
+gradually add olive oil, stopping once to scrape down. Stop machine and
+add the cheese. Stir until blended.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Pine Bark Good Christmas treat (or any time). Ingredients 1 sleeve
+saltines ¾ c. brown sugar 2 sticks butter (NOT margarine) 12 oz. milk
+chocolate chips nuts (optional) Steps Preheat over to 400℉ Cover cookie
+sheet with parchment paper. Place saltines in single layer
+
+Combine brown sugar and butter. Boil on low or medium for 3 minutes,
+stirring constantly. Pour over saltines. Bake at 400℉ for 5 minutes.
+
+Immediately cover evenly with chocolate chips. Let sit for 30-60
+seconds. Spread evenly. Spread and press nuts into chocolate.
+
+Place in refrigerator for 1 hour. Store cold or frozen. To serve, break
+apart like pine bark.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Poor Man’s Lobster From Mom Cz. Ingredients 1 lb. frozen cod filets 2 T.
+salt 2 T. white vinegar water to cover butter, melted dash lemon juice
+Steps Place frozen filets and salt in saucepan with cold water to just
+cover. Bring to boil. Lower heat and cook 10 minutes. Drain. Cover again
+with cold water and vinegar. Bring to boil. Lower heat and cook 10
+minutes. Drain. Serve with melted butter and lemon slices.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Poppy Seed Chicken Casserole Got this from our 92-year-old neighbor
+(Miss Ruth). Very good. Ingredients 6 chicken breasts, boneless (2-4 lb.
+total) 2 cans cream of chicken soup 1 pint sour cream 1½ c. “ritz”
+cracker crumbs 1 T. poppy seeds ½ c. butter, melted dash salt and pepper
+2 T. lemon juice Steps Cook and cool chicken. Cut into large pieces.
+Combine cracker crumbs and butter (put ½ of crumbs in bottom of 2 Qt.
+pyrex). Combine chicken, soup, sour cream, poppy seeds, and lemon juice.
+Top with buttered crumbs.
+
+Bake at 350℉ for 30 minutes. Variations Can substitute cream of celery,
+cream of mushroom, or cream of chicken mushroom soup for the cream of
+chicken soup.
+
+Optionally garnish with parsley and tomato.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Potato Soup Ingredients potatoes, pared and diced onion, chopped salt
+water milk butter black pepper Steps Mix potatoes, onion, and salt.
+Cover with water and cook until tender. Drain off water. Cover with
+milk. Add chunks of butter and black pepper. Heat to desired
+temperature.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+﻿Publix Oven Fried Chicken
+http://sundaydinners.publix.com/recipes/oven-fried-chicken
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Quiche Ingredients 1 9” pie shell 1 ½ c. milk 8 slices bacon ½ c. ham or
+cooked shrimp, chopped 3 eggs, beaten 1 T. flour ¼ t. salt dash nutmeg 1
+½ c. Swiss cheese ½ c. shredded cheese (Monterey Jack, mozzarella, or
+cheddar) Steps Prick shell and bake at 450℉ for 12 minutes. Reduce oven
+temperature to 325℉. Put together eggs, milk, flour, salt, and nutmeg.
+Add bacon and cheese(s). Pour over warm shell. Use foil on edges. Bake
+at 325℉ for 40 minutes. Remove foil and bake for 10-15 minutes more.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Quick Mix Like bisquick. Ingredients 8 ½ c. flour 3 T. baking powder 1
+T. salt 2 t. cream of tartar 1 t. soda 1 ½ c. instant nonfat dry milk 2
+¼ c. vegetable shortening Steps Mix dry ingredients. Cut in shortening.
+Store in cool dry place. Use within 4 months.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Quick Oatmeal Bars From Mom Cz. Ingredients Bars 1 c. brown sugar ½ c.
+white sugar 1 c. margarine 4 c. quick oatmeal Frosting 12 oz. chocolate
+chips 2 c. peanut butter Steps Mix bar ingredients until crumbly. Pat
+into an ungreased jelly roll pan. Bake at 350℉ for 10-15 minutes. Melt
+the chocolate chips and peanut butter. Spread warm frosting on cooled
+bars. Chill, then cut into bars. Freeze well.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Rainbow Cream Cheese Mints Makes 3 dozen. Good Christmas treat. Quite
+sweet. Ingredients 3 oz. cream cheese, softened ½ t. peppermint extract
+3 c. sifted powdered sugar Rainbow sugar (optional) Steps With mixer,
+beat cream cheese and extract. Add powdered sugar – beat until smooth.
+Knead until the sugar is mixed in. Form balls the size of cherries. Roll
+in rainbow sugar. Flatten with fork on waxed paper. Let stand overnight.
+Variations Make smallers if you want more candy.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Really Good Chicken This came from my friend Kay Bradshaw. Good served
+over rice. Ingredients 4-6 lb. boneless skinless chicken breasts or
+thighs 1 can whole berry cranberry sauce 8 oz. catalina salad dressing 1
+clove fresh garlic Steps Add the ingredients to a crock pot in order.
+Cook on high for 2-3 hours, then low for another 2-6 hours. Variations
+Can also be baked in oven at 350℉ for 1 to 1 ½ hours.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Really Good Chocolate Frosting Ingredients ¾ c. butter 1 ½ c. sugar 4
+oz. canned milk 6 oz. chocolate chips ½ jar marshmallow creme dash salt
+Steps Boil the butter, sugar, and milk for 5 minutes. Add the chocolate
+chips, creme, and salt. Allow chocolate to melt. Cool and chill.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Reuben Casserole Quite good. Ingredients 3 12 oz. cans corned beef (or
+cook 3 ½ lb. corned beef) 1 Qt. sauerkraut 1 c. salad dressing
+(Hellman’s or Miracle Whip) ½ c. thousand island dressing 2 c. swiss
+cheese, shredded 2 T. unsalted butter ½ c. bread crumbs Steps Crumble
+corned beef and place with sauerkraut in 13x9 pan. Mix dressing and pour
+over top. Cover with swiss cheese. Melt butter and mix with bread
+crumbs. Sprinkle over top. Bake at 350℉ for 45 minutes. Allow to cool
+for 10 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Rice Pudding From a friend. Good. Ingredients 3 c. cooked rice 1 stick
+butter 2 c. sugar 1 ½ c. milk 3 eggs 2 t. vanilla Steps Cook rice and
+add butter. Spray pan with Pam. Combine ingredients and add to rice.
+Bake at 350℉ for 1 hour.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Rolls Ingredients 1 stick butter, softened 2 c. Bisquick 8 oz. sour
+cream Steps In muffin tins – bake at 425℉ for 8-10 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Salmon Croquettes Or any fish. Ingredients 2 c. fresh salmon 2 T. low
+fat mayonnaise ½ c. dry bread crumbs ¼ c. chopped scallions 2 T. minced
+parsley dash pepper few dashes red pepper sauce 1 egg, beaten until
+foamy 1 c. crushed tomatoes salt to taste Steps Coarsely chop fish. Mix
+with mayonnaise, ¼ c. bread crumbs, 2 T. scallions, 1 T. parsley,
+pepper, and hot sauce. Stir in egg. Makes 4 patties. Coat with bread
+crumbs. Cover and refrigerate.
+
+In skillet simmer tomatoes and scallions for 10 minutes. Stir in
+parsley, salt, and pepper. Keep warm. Broil croquettes, 4-5 minutes per
+side. Put sauce on plate and fish on tp with lemon and parsley.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Salmon Loaf with Dill Sauce Ingredients Loaf 2 T. oil ¾ c. celery,
+finely chopped ½ c. onion, chopped 1 can salmon 1 egg 1 c. evaporated
+milk 1 c. bread crumbs 1 t. salt ¼ t. pepper Sauce ½ c. mayonnaise 1 T.
+lemon juice 1 t. dill weed ¼ c. sour cream 1 T. milk ½ t. salt ½ t.
+sugar ⅛ t. pepper Steps Loaf Cook celery and onion in oil for about 10
+minutes. Remove from heat. Add salmon and liquid and other ingredients.
+Mix well. Bake in a greased loaf pan at 350℉ for 50 minutes. Sauce
+Combine ingredients. Chill.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Sausage and Rice Casserole Written on a U.S. Postal Service routing
+slip. Ingredients 1 lb. mild or regular sausage, browned ½ lb. hot
+sausage, browned 1 c. rice 1 can cream of celery soup 2 cans cream of
+mushroom soup 1 c. chopped celery 1 c. chopped onions, sauteed 1 c.
+water Steps Mix. Bake at 350℉ for 90 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Sausage and Rice Casserole From Mom Cz. Ingredients 1 ½ lb. sausage,
+browned and drained 1 c. Uncle Ben’s rice 2 cans cream of mushroom soup
+1 can cream of celery soup 1 c. celery, chopped 1 c. onion, chopped and
+sauteed 1 c. water from rinsing out soup cans Steps Cover and bake at
+350℉ for 90 minutes
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Sausage Cheese Balls For a firmer texture add an extra 3 c. baking mix
+and an extra 2 c. cheese Ingredients 2 packages (rolls) pork sausage 16
+oz. sharp cheddar (4 c. shredded) 1 ½ c. baking mix ½ c. celery, finely
+chopped ½ c. onion, finely chopped ½ t. garlic powder Steps Shred cheese
+and mix all ingredients. Form into 1” balls. Bake at 375℉ for 15 minutes
+on ungreased sheet until golden brown. Bake on a broiling pan to drain
+fat and grease. Balls can be frozen uncooked for later.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Sausage-studded Red Beans & Rice From Mom Cz. Ingredients 16 oz. smoked
+sausage, chunked and halved 1 medium onion 1 c. celery, chopped 2 c.
+Bush’s chili beans 1 c. diced tomatoes 2 t. Cajun seasoning 4 c. rice,
+cooked salt and pepper to taste Steps Saute sausage, onion, and celery.
+Stir in beans, tomatoes, and spices. Simmer until hot. Add salt and
+pepper as desired. Mix with rice to serve.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Scalloped Pineapple Great with Ham or Pork Ingredients 8 c. bread crumbs
+2 c. melted butter 4 c. sugar 6 eggs, slightly beaten 1 c. milk 2 cans
+pineapple chunks, drained Steps Mix bread, sugar, eggs, and pineapple.
+Add enough milk to moisten well. Pour into buttered 9x13 pan. Bake at
+350℉ for 50 minutes, or until golden.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Scrambled Egg Casserole From Mom Cz. Can be put together the night
+before. Make 12-15 servings. Ingredients Sauce 2 T. butter 2 ½ T. flour
+2 c. milk ½ t. salt ⅛ t. pepper 1 c. shredded cheddar or american
+Casserole 1 c. cubed ham (or bacon or sausage) ¼ c. chopped green onion
+3 T. butter 1 can mushrooms, drained and sliced 1 dozen eggs, beaten
+Topping ¼ c. butter, melted 2 ¼ c. soft bread crumbs ⅛ t. paprika Steps
+Sauce Melt butter on low. Blend in flour. Cook one minute, the slowly
+add milk. Cook over medium heat, stirring constantly. Add salt, pepper,
+and cheese while stirring until the cheese melts and is smooth. Keep
+warm. Casserole Saute meat and green onions in 3 T. butter. Add eggs and
+cook over medium heat until big soft curds form. Stick in mushrooms and
+cheese sauce. Put in a 9x13 casserole dish. Topping Combine bread crumbs
+and butter and top the egg mixture. Sprinkle paprika on top of that.
+
+Cover and chill. Bake at 350℉ for 30 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Seasoned Salt Ingredients 1 c. salt 1 t. pepper 1 t. white pepper 1 t.
+paprika ¼ t. celery salt ¼ t. garlic salt ¼ t. onion salt
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Self-Rising Flour I believe this would keep longer if put in freezer in
+zip loc bags. Ingredients 4 c. flour 2 ½ T. baking powder ½ t. salt 1 T.
+sugar Steps Put in paper bag and shake well. Use within 1 month.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Senate Bean Soup Takes a while, but worth the effort. This was given to
+me as the actual recipe for bean soup served at the senate restaurant in
+Washington, D.C. Ingredients 1 ½ c. great northern beans, dry water 1-2
+ham hocks 1 medium onion ¼ c. celery 1 clove garlic or 1 t. garlic
+powder salt and pepper Steps Soak beans overnight in 1 Qt. water. Drain
+and measure liquid. Add water to make 2 Qts. Simmer water, beans, and
+ham hocks for 2 hours. Add rest of ingredients and simmer 1 hour. Cut
+meat from the hocks and add back to the pot. Puree 1 c. cooked beans and
+a little water and add back to the pot. Season to taste. Variations A
+little shredded carrot is good.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Ship Wreck This is from a friend of mine I grew up with. Ingredients 1 ½
+lb. ground beef, browned 1 small onion, diced carrots, raw, diced
+potatoes, raw, diced tomato juice 1 can peas, drained Steps Put first
+layer into casserole dish – meat and onions. Second layer – carrots.
+Third layer – potatoes. Cover with tomato juice, diluted with 1 can of
+water. Bake at 325℉ for 90 minutes. For the last 10 minutes add the
+peas.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Sloppy Joes From mom. Ingredients 1 lb. ground beef 1 medium onion 1
+small bottle ketchup (plus ½ bottle water) 2 T. barbecue sauce 1 T.
+vinegar 1 t. brown sugar 1 t. Worcestershire sauce dash chili powder
+salt and pepper to taste Steps Cook and simmer for 1 hour.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Smoky Pecan Relish Good over grilled chicken Ingredients ½ c. pecan
+halves 1 (12 oz.) jar roasted red bell peppers, drained and rinsed 3 T.
+extra-virgin olive oil 1 T. red wine vinegar 1 garlic clove, minced 1 ½
+t. smoked paprika (or 1 t. regular paprika and ½ t. ground cumin) ½ t.
+salt ¼ t. ground redd pepper Steps 1. Preheat oven to 350℉. Bake pecans
+for 10 minutes until light brown and fragrant. 2. Pat peppers dry.
+COmbine with pecans, oil, and remaining ingredients in a food processor.
+Pulse 8-10 times until finely chopped (not smooth). Cover and chill 2
+hours. Store in refrigerator up to 1 week. Let stand at room temperature
+for 30 minutes before serving.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Snacks Ingredients 1 large box oyster crackers 1 c. safflower oil 2 t.
+dill weed 1 package ranch-style dressing (dry mix) Steps Mix together
+and pour over crackers. Let marinate.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Snappy Crackers Mom Cz. Ingredients 2 ¼ c. flour ½ t. baking powder 2 c.
+grated sharp cheddar cheese ½ c. butter in pieces ½ c. white wine –
+Worcestershire 1 egg yolk ½ c. sesame seeds Steps Combine flour and
+baking powder. Cut in cheese and butter with a pastry cutter. Add white
+wine sauce until the dough holds together (reserve 2 T.). Chill 10-15
+minutes. Roll dough in wax paper to ⅛”. Cut shapes or squares and brush
+with yolk and sauce. Sprinkle seeds.
+
+Place on a greased sheet and bake at 375℉ for 10 minutes until golden
+and firm.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Sour Cream Chicken Enchiladas Very good. From Steve’s brother’s wife.
+Ingredients Enchiladas 2 c. cooked chicken (bite size pieces) 1 medium
+onion, chopped 1 c. mushrooms, chopped 12 large tortillas 1 green
+pepper, chopped 1 can Rotel tomatoes Sauce ¼ c. butter 2 T. flour 1 can
+chicken broth 2 c. Monterey Jack cheese 1 c. sour cream or plain yogurt
+Steps Enchiladas Saute chicken, mushrooms, greens peppers, and tomatoes.
+Fill tortillas with chicken mixture and roll up. Place in a large
+shallow greased pan. Top with cheese. Sauce Melt butter. Add flour –
+stir. Add chicken broth and sour cream (or yogurt). Stir until smooth.
+
+Pour sauce over enchiladas. Bake at 350℉ for 30 to 35 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Southern Snowballs Ingredients 2 egg whites ¾ c. sugar 1 c. nut meats 1
+c. chocolate chips Steps Preheat over to 350℉. Beat egg whites until
+stiff. Add sugar slowly. Add nuts and chips. Drop by teaspoon-ful on
+parchment paper. Put in over and immediately turn oven off. Leave 3
+hours or overnight.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Spaghetti Sauce From Mom Cz. Delicious. Ingredients 1 T. shortening 1
+lb. ground beef 1 onion, chopped ½ c. celery with leaves 2 T. parsley
+flakes 12 oz. tomato paste 16 oz. tomato sauce ½ t. salt ¼ t. pepper 1
+clove garlic, minced ½ t. Italian seasoning 1 bay leaf ¾ c. water Steps
+Saute celery and onions in shortening. Add meat and brown. Add remaining
+ingredients and simmer for 3-4 hours, adding water as needed. Can be
+frozen.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Speedy Black Beans and Mexican Rice Ingredients 2 pouches Uncle Ben’s
+ready to serve Spanish Rice 2 cans Black Beans, rinsed and drained 2
+cans chopped chiles ¼ c. chopped fresh cilantro Steps Prepare rice.
+Combine beans and chiles in microwave on high for 2 minutes. Stir in
+rice and cilantro. Top with sour cream, salsa, dried tomatoes, and/or
+shredded cheddar
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Spinach Balls From Mom Cz. Party. Makes about 80. Mom sometimes made it
+in a flat dish and cut it into squares. Ingredients 2 packages frozen
+spinach, cooked and drained 2 c. herb stuffing (Pepperidge Farm) 2
+onions, finely chopped 6 eggs, beaten ½ t. thyme 1 T. garlic salt 1 t.
+MSG ½ t. pepper ¾ c. butter, melted ½ c. Parmesan cheese Steps Chill and
+make into balls. Bake at 350℉ for 20 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Spinach Dip From Mom Cz. Ingredients vegetable soup mix water chestnuts,
+chopped 1 c. Hellman’s mayonnaise 1 package chopped frozen spinach 16
+oz. sour cream chopped green peppers (optional) Steps Mix. Let chill
+overnight.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Squash Casserole Ingredients 2 c. mashed squash ½ c. undiluted mushroom
+soup 1 T. grated onion ½ c. breadcrumbs 1 c. grated cheddar cheese 1 T.
+butter 1 beaten egg salt and pepper to taste Steps Mix all ingredients
+and pour into well-greased baking dish. Bake at 400℉ for 10 minutes,
+then 350℉ for 20 minutes. Should be hot and bubbly around edges.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Squash Dressing Steve’s mother’s Ingredients 1 ½ c. cooked squash ½ c.
+chopped onion 3 c. cornbread crumbs 1 stick margarine, melted 1 t. sage
+2 eggs, beaten 2 cans cream of chicken soup Steps Combine ingredients in
+an 8x8 pans. Bake at 375℉ until golden
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Steve’s Pecans Steve T’s claim to fame are these toasted pecans. He gets
+requests to make these. Ingredients Pecans White bark Steps Toast pecans
+in oven (very lightly salted, optionally) Melt white bark in a double
+boiler. Mix in the pecans. Spread on greased sheet (or wax paper).
+Separate and let cool.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Streusel Caramel Bars Ingredients 2 c. flour ¾ c. brown sugar 1 egg,
+beaten ¾ c. cold butter or margarine ¾ c. chopped nuts 18 caramels 1 can
+Eagle brand milk Steps Combine flour, sugar, and egg. Cut in ½ c.
+margarine until crumbly. Stir in nuts. Reserve 1 ½ c. crumb mixture.
+Press remaining into a 9x13 pan. Bake at 350℉ for 15 minutes. Melt
+caramels and milk with ¼ c. margarine. Pour over crust. Top with crumbs.
+Bake at 350℉ for 25 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Sweet Potato Coconut Balls As a side dish, appetizer, or treat
+Ingredients Cooked sweet potatoes, mashed orange zest orange juice salt
+and pepper brown sugar flaked coconut marshmallows Steps Combine
+potatoes, zest, juice, salt, pepper, and brown sugar until stiff. Wrap
+mixture around a marshmallow. Roll balls in coconut and remaining brown
+sugar. Bake at 350℉ for approximately 20 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Sweetened Condensed Milk Ingredients 1 c. and 2 T. instant dry milk ½ c.
+warm water ¾ c. sugar Steps Place water in bowl. Add dry milk and mix
+well. Add sugar and mix until smooth. Set bowl in pan of hot water.
+Store in glass jars.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Taco Soup Ingredients 1 lb. hamburger 1 medium onion, chopped 1 medium
+green pepper, chopped 1 jar taco sauce 1 can kidney beans (not drained)
+1 can corn (not drained) 1 can stewed tomatoes 1 ½ t. chili powder Steps
+Brown the hamburger with the onion and peppers, then drain. Add the
+remaining ingredients and heat well. Pour into bowls and top with
+shredded cheese and sour cream.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Tight-Fittin’ Jeans Bars “Here’s what’s cookin’. Recipe from Judy
+Gingnas (Naomi Bourdon) Ingredients Crust ½ c. oleo 1 c. flour ¼ c.
+sugar Filling 1 c. graham cracker crumbs ½ c. chocolate chips (or more)
+½ c. chopped nuts 1 t. baking powder ¼ t. salt 14 oz. Eagle brand
+sweetened condensed milk Frosting 1 ½ c. powdered sugar ½ c. oleo 1 t.
+vanilla Steps Crust Mix and press into 9x13 pan. Bake at 350℉ for 10
+minutes. Cool for 10 minutes. Filling Mix ingredients and spread onto
+partially-baked crust. Bake at 350℉ for 15-20 minutes. Cool completely.
+Frosting Blend well until smooth. Frost the bars.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Tiramisu Excellent dessert. Rich. Ingredients ½ c. strong brewed coffee
+(I use instant espresso crystals) 2 T. coffee liquers 2 8 oz. sour cream
+2 8 oz. cream cheese, softened ⅔ c. sugar ¼ c. milk ½ t. vanilla 2 3 oz.
+packages lady fingers 2 T. unsweetened cocoa powder Steps Combine coffee
+and liquers and set aside. In a large bowl, combine sour cream, cream
+cheese, sugar, milk, and vanilla. Beat with mixer until smooth. Layer
+one package of lady fingers (cut sides up) in 2 Qt. rectangular baking
+dish. Brush with half of coffee mixture. Spread with half of cream
+cheese mixture. Repeat with rest of lady fingers, coffee, and cream
+cheese. Sift cocoa powder over top. Cover and chill 4 to 24 hours. Cut
+in squares.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Toasted Pecan Pesto Ingredients ½ c. chopped pecans 2 c. loosely-packed
+fresh basil leaves ½ c. shredded parmesan ½ c. olive oil 3 large garlic
+cloves ⅛ t. salt Steps Preheat over to 350℉ Bake pecans for 8-10 minutes
+until lightly browned and fragrant. Let cool for 20 minutes. Process
+pecans and remaining ingredients in food processor until smooth.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Truffles Makes approximately 24 balls. Ingredients 2 T. butter 1 egg
+yolk ¼ c. powdered sugar 4 oz. sweet cooking chocolate, grated 1 T. rum
+¼ c. flaked coconut Steps Cream butter, blend in yolk. Stir in chocolate
+and rum (or use 2 t. water and 1 t. rum extract). Shape into balls. Roll
+in coconut or chocolate sprinkles. Place on wax paper and chill.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+US 31 BBQ – Pork or Beef Do you remember US 31 BBQ in downtown Muskegon?
+Ingredients 1 ½ lb. cabbage, grated 1 green onion 1 c. pickle relish ½
+c. catsup ¼ c. yellow mustard ½ c. sugar ⅛ c. horseradish ¼ c. cider
+vinegar 2 T. chopped pimientos Steps Simmer 10 minutes.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Velveeta Fudge Good. Ingredients 1 lb. Velveeta 1 lb. butter 1 c. cocoa
+1 t. vanilla 4 lb. powdered sugar Steps Melt butter and cheese. Add rest
+and mix well. Pour into greased dish.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Vidalia Onion Casserole Good Ingredients 2 T. butter 2 c. onions, sliced
+6 eggs, boiled 1½ c. cheese, grated 1 can cream of chicken soup ¾ c.
+milk ½ t. mustard 6 slices buttered toast Steps Preheat oven to 350℉
+Saute onions in butter. Place in buttered casserole. Slice eggs over
+onions. Sprinkle cheese over eggs.
+
+Heat soup, milk, and mustard together until smooth. Pour over all, then
+crumble toast over top (I use panko w/ melted butter mixed in).
+
+Bake 30-35 minutes
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Whipped Lemon Butter Another from Mabel Estes Ingredients ½ c. soft
+butter 1 T. minced parsley 1 t. chopped chives ½ t. salt dash cayenne
+pepper 3 T. lemon juice Steps Cream butter. Add parsley, chives, salt,
+and cayenne. Add lemon juice about ¼ at a time. Can store in
+refrigerator in a covered jar.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+White Fudge Ingredients 1 ½ lb. white chocolate 1 can Eagle brand ⅛ t.
+salt 1 t. vanilla 1 c. candied cherries Steps Melt white chocolate and
+milk. Stir in the rest of the ingredients. Spread on wax-paper-lined
+pan. Chill.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Win Shulers Dip From Mom Cz. Ingredients 1 large Win Shulers cheese 8
+oz. cream cheese, softened 1 t. garlic powder Steps combine
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Zucchini Casserole Ingredients 3 c. chopped zucchini (unpeeled) 3 eggs 1
+c. Bisquick 1 med onion, grated 2 cloves garlic dash of salt dash of
+pepper dash of oregano dash of thyme 8 oz. grated American cheese (use ¾
+and rest on top) Steps Mix all together. Pour into greased dish.
+Remaining cheese on top. Bake at 350℉ for 45 minutes, until brown.
+
+* * * * *
+
+Recipe {itemprop="name headline"}
+------
+
+**Category**: Misc\
+ **Cooking method**: Baking\
+ **Yield**: 1 loaf\
+
+### Ingredients
+
+-   ingredient
+
+### Steps
+
+Zucchini Squash Quiche Good. Ingredients 1 c. bisquick 3 c. diced squash
+1 grated carrot 1 small grated onion ½ c. grated cheese ½ t. salt ¼ t.
+pepper ¼ t. garlic powder ½ c. oil 4 eggs Steps Press in greased 8x8.
+Bake at 350℉ for 1 hour.
 
 * * * * *
