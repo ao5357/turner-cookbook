@@ -1,6 +1,6 @@
 ---
-title: "Recipe"
-#description: ""
+title: "Pecan Pastry Shell"
+description: "This is from my Mom."
 category: "Desserts"
 #image: filename.jpg
 cookingMethod: "Baking"
@@ -9,19 +9,14 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "½ c. finely-chopped pecans"
+  - "1 ¼ c. flour"
+  - "2 T. sugar"
+  - "½ c. butter"
+  - "2 T. cold water"
+  - "1 t. vanilla"
 ---
 
-Pecan Pastry Shell
-This is from my Mom.
-Ingredients
-½ c. finely-chopped pecans
-1 ¼ c. flour
-2 T. sugar
-½ c. butter
-2 T. cold water
-1 t. vanilla
-Steps
 Pulse pecans in food processor until fine. Remove.
 Add flour and sugar — pulse twice.
 Add butter — pulse until crumbly

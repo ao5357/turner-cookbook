@@ -1,5 +1,5 @@
 ---
-title: "Recipe"
+title: "No Name Pecans"
 #description: ""
 category: "Misc"
 #image: filename.jpg
@@ -9,19 +9,15 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "2 T. brown sugar"
+  - "2 T. frozen orange juice concentrate"
+  - "1 ½ T. butter"
+  - "½ t. salt"
+  - "½ t. chili powder"
+  - "¼ t. pepper"
+  - "1 ½ c. chopped pecans"
 ---
 
-No Name Pecans
-Ingredients
-2 T. brown sugar
-2 T. frozen orange juice concentrate
-1 ½ T. butter
-½ t. salt
-½ t. chili powder
-¼ t. pepper
-1 ½ c. chopped pecans
-Steps
 Cook first 6 ingredients in skillet until the sugar dissolves.
 Remove from heat. Stir in the pecans.
 Spread onto greased baking sheet.

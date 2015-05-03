@@ -1,5 +1,5 @@
 ---
-title: "Recipe"
+title: "Pumpkin Pie Spice"
 #description: ""
 category: "Pies"
 #image: filename.jpg
@@ -9,13 +9,11 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "1 t. cinnamon"
+  - "½ t. nutmeg"
+  - "¼ t. ginger"
+  - "¼ t. cloves"
+  - "dash of allspice"
 ---
 
-Pumpkin Pie Spice
-Ingredients
-1 t. cinnamon
-½ t. nutmeg
-¼ t. ginger
-¼ t. cloves
-dash of allspice
+Mix ingredients.

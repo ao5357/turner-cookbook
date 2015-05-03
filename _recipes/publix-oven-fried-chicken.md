@@ -1,5 +1,5 @@
 ---
-title: "Recipe"
+title: "Publix Oven Fried Chicken"
 #description: ""
 category: "Misc"
 #image: filename.jpg
@@ -12,5 +12,4 @@ ingredients:
   - "ingredient"
 ---
 
-﻿Publix Oven Fried Chicken
 http://sundaydinners.publix.com/recipes/oven-fried-chicken

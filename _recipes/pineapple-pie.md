@@ -1,5 +1,5 @@
 ---
-title: "Recipe"
+title: "Pineapple Pie"
 #description: ""
 category: "Pies"
 #image: filename.jpg
@@ -9,22 +9,18 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "8 oz. cream cheese"
+  - "1 c. sugar"
+  - "½ t. salt"
+  - "2 eggs"
+  - "½ c. milk"
+  - "½ t. vanilla"
+  - "1 T. cornstarch"
+  - "8 oz. crushed pineapple, undrained"
+  - "9” pie shell, unbaked"
+  - "¼ c. chopped pecans"
 ---
 
-Pineapple Pie
-Ingredients
-8 oz. cream cheese
-1 c. sugar
-½ t. salt
-2 eggs
-½ c. milk
-½ t. vanilla
-1 T. cornstarch
-8 oz. crushed pineapple, undrained
-9” pie shell, unbaked
-¼ c. chopped pecans
-Steps
 Mix cream cheese, sugar, and salt. Add eggs, then milk and vanilla.
 In a saucepan, mix cornstarch and ½ c. sugar with the pineapple. Boil for 2 minutes, stirring.
 Pour sauce into crust, then add the other mixture. Top with nuts.

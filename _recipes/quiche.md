@@ -1,5 +1,5 @@
 ---
-title: "Recipe"
+title: "Quiche"
 #description: ""
 category: "Misc"
 #image: filename.jpg
@@ -9,22 +9,18 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "1 9” pie shell"
+  - "1 ½ c. milk"
+  - "8 slices bacon"
+  - "½ c. ham or cooked shrimp, chopped"
+  - "3 eggs, beaten"
+  - "1 T. flour"
+  - "¼ t. salt"
+  - "dash nutmeg"
+  - "1 ½ c. Swiss cheese"
+  - "½ c. shredded cheese (Monterey Jack, mozzarella, or cheddar)"
 ---
 
-Quiche
-Ingredients
-1 9” pie shell
-1 ½ c. milk
-8 slices bacon
-½ c. ham or cooked shrimp, chopped
-3 eggs, beaten
-1 T. flour
-¼ t. salt
-dash nutmeg
-1 ½ c. Swiss cheese
-½ c. shredded cheese (Monterey Jack, mozzarella, or cheddar)
-Steps
 Prick shell and bake at 450℉ for 12 minutes.
 Reduce oven temperature to 325℉.
 Put together eggs, milk, flour, salt, and nutmeg.

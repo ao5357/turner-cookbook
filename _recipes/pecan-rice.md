@@ -1,5 +1,5 @@
 ---
-title: "Recipe"
+title: "Pecan Rice"
 #description: ""
 category: "Misc"
 #image: filename.jpg
@@ -9,20 +9,16 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "1 ½ c. brown rice"
+  - "3 T. butter"
+  - "1 chopped onion"
+  - "1 c. pecans"
+  - "¼ c. parsley"
+  - "1 T. ginger"
+  - "1 T. basil or ½ t. dried basil"
+  - "salt and pepper"
 ---
 
-Pecan Rice
-Ingredients
-1 ½ c. brown rice
-3 T. butter
-1 chopped onion
-1 c. pecans
-¼ c. parsley
-1 T. ginger
-1 T. basil or ½ t. dried basil
-salt and pepper
-Steps
 Saute onion. Add cooked rice.
 Add pecans, herbs, and seasonings.
 Stir and simmer 10 minutes.

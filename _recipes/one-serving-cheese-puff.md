@@ -1,28 +1,23 @@
 ---
-title: "Recipe"
-#description: ""
+title: "One Serving Cheese Puff"
+description: "Easy and quick."
 category: "Misc"
 #image: filename.jpg
 cookingMethod: "Baking"
-recipeYield: "1 loaf"
+recipeYield: "Makes 1."
 #prepTime: "15M"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "1 ½ slices white or whole wheat bread, buttered"
+  - "1 egg"
+  - "½ c. milk"
+  - "¼ c. shredded American cheese"
+  - "⅛ t. onion salt"
+  - "⅛ t. salt"
+  - "6-8 drops hot sauce"
 ---
 
-One Serving Cheese Puff
-Makes 1. Easy and quick.
-Ingredients
-1 ½ slices white or whole wheat bread, buttered
-1 egg
-½ c. milk
-¼ c. shredded American cheese
-⅛ t. onion salt
-⅛ t. salt
-6-8 drops hot sauce
-Steps
 Cut bread in strips and place on sides and bottom of 10 oz. custard cup, buttered side down.
 In a bowl lightly beat egg and rest of ingredients.
 Pour in custard cup.

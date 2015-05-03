@@ -1,5 +1,5 @@
 ---
-title: "Recipe"
+title: "Peanut Butter Chocolate Cake"
 #description: ""
 category: "Cakes"
 #image: filename.jpg
@@ -9,19 +9,15 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "1 package devil’s food cake mix"
+  - "4 oz. cream cheese"
+  - "¼ c. creamy peanut butter"
+  - "2 T. powdered sugar"
+  - "1 c. whipped topping"
+  - "1 c. whipping cream"
+  - "1 c. chocolate chips"
 ---
 
-Peanut Butter Chocolate Cake
-Ingredients
-1 package devil’s food cake mix
-4 oz. cream cheese
-¼ c. creamy peanut butter
-2 T. powdered sugar
-1 c. whipped topping
-1 c. whipping cream
-1 c. chocolate chips
-Steps
 Prepare cake mix per instructions using 9” fluted tube pan. Cool for 10 minutes before removing from pan to wire rack.
 In small bowl, beat cream cheese until smooth — add peanut butter and powdered sugar. Beat until blended.
 Fold in whipped topping. Split cake in half — bottom on serving plate.
