@@ -1,6 +1,6 @@
 ---
-title: "Recipe"
-#description: ""
+title: "Fancy Strawberries for a Party"
+description: "This is ½ of recipe"
 category: "Misc"
 #image: filename.jpg
 cookingMethod: "Baking"
@@ -9,16 +9,11 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "4 c. flaked coconut"
+  - "2 packages strawberry jello"
+  - "1 c. Eagle brand milk"
 ---
 
-Fancy Strawberries for a Party
-This is ½ of recipe
-Ingredients
-4 c. flaked coconut
-2 packages strawberry jello
-1 c. Eagle brand milk
-Steps
 Sprinkle jello over coconut and pour in milk. Mix up.
 Set in refrigerator for ½ hour or more.
 Shape strawberries and roll in red cookie sugar.

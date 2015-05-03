@@ -1,6 +1,6 @@
 ---
-title: "Recipe"
-#description: ""
+title: "French Onion Beef Dip"
+description: "From Mom Cz."
 category: "Misc"
 #image: filename.jpg
 cookingMethod: "Baking"
@@ -9,17 +9,12 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "1 lb. french onion dip"
+  - "8 oz. cream cheese"
+  - "2 packages dried beef"
+  - "1 medium green pepper"
+  - "1 t. onion powder"
+  - "¼ - ⅛ t. garlic powder"
 ---
 
-French Onion Beef Dip
-From Mom Cz.
-Ingredients
-1 lb. french onion dip
-8 oz. cream cheese
-2 packages dried beef
-1 medium green pepper
-1 t. onion powder
-¼ - ⅛ t. garlic powder
-Steps 
 Mix and heat.
