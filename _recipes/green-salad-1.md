@@ -1,5 +1,5 @@
 ---
-title: "Recipe"
+title: "Green Salad"
 #description: ""
 category: "Salads"
 #image: filename.jpg
@@ -9,14 +9,10 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "1 package lime jello"
+  - "1 can pears (use juice for jello)"
+  - "1 package lucky whip (use ingredients package indicates)"
+  - "3 oz. cream cheese"
 ---
 
-Green Salad
-Ingredients
-1 package lime jello
-1 can pears (use juice for jello)
-1 package lucky whip (use ingredients package indicates)
-3 oz. cream cheese
-Steps
 Combine ingredients in blender. Chill.

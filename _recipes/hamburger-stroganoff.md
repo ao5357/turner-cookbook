@@ -1,6 +1,6 @@
 ---
-title: "Recipe"
-#description: ""
+title: "Hamburger Stroganoff"
+description: "From Mom Cz."
 category: "Misc"
 #image: filename.jpg
 cookingMethod: "Baking"
@@ -9,20 +9,15 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "4 oz. egg noodles (4 c. raw)"
+  - "¾ c. onion"
+  - "1 lb. ground beef"
+  - "1 can cream of mushroom soup"
+  - "½-1 c. milk"
+  - "¾ t. salt"
+  - "¼ c. ketchup"
+  - "2 t. Worcestershire sauce"
 ---
 
-Hamburger Stroganoff
-From Mom Cz.
-Ingredients
-4 oz. egg noodles (4 c. raw)
-¾ c. onion
-1 lb. ground beef
-1 can cream of mushroom soup
-½-1 c. milk
-¾ t. salt
-¼ c. ketchup
-2 t. Worcestershire sauce
-Steps
 Cook noodles. Brown onions and meat. Mix all together.
 Bake at 350℉ for 25-30 minutes.

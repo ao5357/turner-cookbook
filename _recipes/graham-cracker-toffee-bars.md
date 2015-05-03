@@ -1,6 +1,6 @@
 ---
-title: "Recipe"
-#description: ""
+title: "Graham Cracker Toffee Bars"
+description: "Mom made these."
 category: "Desserts"
 #image: filename.jpg
 cookingMethod: "Baking"
@@ -9,18 +9,13 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "1 stick butter"
+  - "1 stick margarine"
+  - "½ c. sugar"
+  - "finely-chopped nuts"
+  - "graham crackers"
 ---
 
-Graham Cracker Toffee Bars
-Mom made these.
-Ingredients
-1 stick butter
-1 stick margarine
-½ c. sugar
-finely-chopped nuts
-graham crackers
-Steps
 Use large baking sheet with sides. Spray pan, including sides.
 Fill sheet with graham crackers.
 Bring butter, margarine, and sugar to boil over high heat for one minute. DO NOT OVER BOIL.
