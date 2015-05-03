@@ -1,5 +1,5 @@
 ---
-title: "Recipe"
+title: "Leftover Mashed Potatoes"
 #description: ""
 category: "Misc"
 #image: filename.jpg
@@ -9,16 +9,12 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "½ of potatoes"
+  - "sauteed onions"
+  - "sauteed mushrooms"
+  - "sour cream"
+  - "other half of potatoes"
+  - "grated cheese"
 ---
 
-Leftover Mashed Potatoes
-Ingredients
-½ of potatoes
-sauteed onions
-sauteed mushrooms
-sour cream
-other half of potatoes
-grated cheese
-Steps
 Layer in a casserole dish in order. Bake at 350℉ for 20 minutes.
