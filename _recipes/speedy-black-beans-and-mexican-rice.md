@@ -1,5 +1,5 @@
 ---
-title: "Recipe"
+title: "Speedy Black Beans and Mexican Rice"
 #description: ""
 category: "Misc"
 #image: filename.jpg
@@ -9,16 +9,12 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "2 pouches Uncle Ben’s ready to serve Spanish Rice"
+  - "2 cans Black Beans, rinsed and drained"
+  - "2 cans chopped chiles"
+  - "¼ c. chopped fresh cilantro"
 ---
 
-Speedy Black Beans and Mexican Rice
-Ingredients
-2 pouches Uncle Ben’s ready to serve Spanish Rice
-2 cans Black Beans, rinsed and drained
-2 cans chopped chiles
-¼ c. chopped fresh cilantro
-Steps
 Prepare rice.
 Combine beans and chiles in microwave on high for 2 minutes.
 Stir in rice and cilantro.

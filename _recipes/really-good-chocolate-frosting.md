@@ -1,5 +1,5 @@
 ---
-title: "Recipe"
+title: "Really Good Chocolate Frosting"
 #description: ""
 category: "Misc"
 #image: filename.jpg
@@ -9,17 +9,13 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "¾ c. butter"
+  - "1 ½ c. sugar"
+  - "4 oz. canned milk"
+  - "6 oz. chocolate chips"
+  - "½ jar marshmallow creme"
+  - "dash salt"
 ---
 
-Really Good Chocolate Frosting
-Ingredients
-¾ c. butter
-1 ½ c. sugar
-4 oz. canned milk
-6 oz. chocolate chips
-½ jar marshmallow creme
-dash salt
-Steps
 Boil the butter, sugar, and milk for 5 minutes. Add the chocolate chips, creme, and salt. Allow chocolate to melt.
 Cool and chill.

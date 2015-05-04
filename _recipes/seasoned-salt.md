@@ -1,5 +1,5 @@
 ---
-title: "Recipe"
+title: "Seasoned Salt"
 #description: ""
 category: "Misc"
 #image: filename.jpg
@@ -9,15 +9,13 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "1 c. salt"
+  - "1 t. pepper"
+  - "1 t. white pepper"
+  - "1 t. paprika"
+  - "¼ t. celery salt"
+  - "¼ t. garlic salt"
+  - "¼ t. onion salt"
 ---
 
-Seasoned Salt
-Ingredients
-1 c. salt
-1 t. pepper
-1 t. white pepper
-1 t. paprika
-¼ t. celery salt
-¼ t. garlic salt
-¼ t. onion salt
+Mix ingredients.

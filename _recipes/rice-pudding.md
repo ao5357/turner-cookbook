@@ -1,6 +1,6 @@
 ---
-title: "Recipe"
-#description: ""
+title: "Rice Pudding"
+description: "From a friend. Good."
 category: "Misc"
 #image: filename.jpg
 cookingMethod: "Baking"
@@ -9,19 +9,14 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "3 c. cooked rice"
+  - "1 stick butter"
+  - "2 c. sugar"
+  - "1 ½ c. milk"
+  - "3 eggs"
+  - "2 t. vanilla"
 ---
 
-Rice Pudding
-From a friend. Good.
-Ingredients
-3 c. cooked rice
-1 stick butter
-2 c. sugar
-1 ½ c. milk
-3 eggs
-2 t. vanilla
-Steps
 Cook rice and add butter.
 Spray pan with Pam.
 Combine ingredients and add to rice.
