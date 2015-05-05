@@ -1,6 +1,6 @@
 ---
-title: "Recipe"
-#description: ""
+title: "Win Shulers Dip"
+description: "From Mom Cz."
 category: "Misc"
 #image: filename.jpg
 cookingMethod: "Baking"
@@ -9,14 +9,9 @@ recipeYield: "1 loaf"
 #cookTime: "1H"
 #totalTime: "1H15M"
 ingredients:
-  - "ingredient"
+  - "1 large Win Shulers cheese"
+  - "8 oz. cream cheese, softened"
+  - "1 t. garlic powder"
 ---
 
-Win Shulers Dip
-From Mom Cz.
-Ingredients
-1 large Win Shulers cheese
-8 oz. cream cheese, softened
-1 t. garlic powder
-Steps
 combine
