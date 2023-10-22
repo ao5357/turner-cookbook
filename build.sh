@@ -8,7 +8,7 @@ set -o nounset
 echo "Build script initialized."
 
 # Jekyll build.
-jekyll build
+bundle exec jekyll build
 cd _site/ebook
 
 # Make an epub.
@@ -34,4 +34,4 @@ pandoc -S -t markdown -o ../../assets/build/sharons-cookbook.md.txt index.html
 
 # Use epub to make a mobi.
 cd ../../assets/build
-kindlegen sharons-cookbook.epub
+#kindlegen sharons-cookbook.epub

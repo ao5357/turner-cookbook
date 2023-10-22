@@ -1,4 +1,21 @@
-## Jekyll configs
+####
+## @file
+## Jekyll configuration
+##
+## We try to push as much sitewide config as possible into this file, so a new deployment can start with just editing
+## this file.
+##
+## If you need help with YAML syntax, here are some quick references for you:
+## https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+## https://learnxinyminutes.com/docs/yaml/
+##
+## Throughout this file, you'll see two # marks at the start of a line for a permanent comment, and a single # for
+## configuration options that can be enabled by removing the #.
+##
+## When adding new sections, be sure to name them so they make sense to others, and to document with good comments
+## wherever possible/practical.
+####
+
 markdown: rdiscount
 permalink: /:year/:month/:title/
 highlighter: pygments
@@ -28,7 +45,6 @@ defaults:
 title: "Sharon's Cookbook"
 primary_author: "Sharon Turner"
 shortname: Sharon
-baseurl: http://bradczerniak.com
 # subpath should include leading slash or be an empty string
 subpath: /turner-cookbook
 source_repo: http://www.github.com/ao5357/turner-cookbook
@@ -40,8 +56,8 @@ gaid: UA-697953-3
 schema: Book
 
 ## Open Graph
-og_street_address: 6751 Anna Dr
-og_locality: Belleville
+og_street_address: 1428 Mark Ave
+og_locality: Lincoln Park
 og_region: MI
-og_postal_code: "48111"
+og_postal_code: "48146"
 og_country: USA
